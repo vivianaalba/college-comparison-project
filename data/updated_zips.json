@@ -1,0 +1,7072 @@
+[
+  {
+    "City": "abbeville",
+    "Postal Code": "29620",
+    "State": "sc"
+  },
+  {
+    "City": "adamsville",
+    "Postal Code": "38310",
+    "State": "tn"
+  },
+  {
+    "City": "alabaster",
+    "Postal Code": "35007",
+    "State": "al"
+  },
+  {
+    "City": "albertville",
+    "Postal Code": "35950",
+    "State": "al"
+  },
+  {
+    "City": "alexander city",
+    "Postal Code": "35010",
+    "State": "al"
+  },
+  {
+    "City": "aliceville",
+    "Postal Code": "35442",
+    "State": "al"
+  },
+  {
+    "City": "andalusia",
+    "Postal Code": "36420",
+    "State": "al"
+  },
+  {
+    "City": "anniston",
+    "Postal Code": "36201",
+    "State": "al"
+  },
+  {
+    "City": "arab",
+    "Postal Code": "35016",
+    "State": "al"
+  },
+  {
+    "City": "arley",
+    "Postal Code": "35541",
+    "State": "al"
+  },
+  {
+    "City": "atmore",
+    "Postal Code": "36502",
+    "State": "al"
+  },
+  {
+    "City": "attalla",
+    "Postal Code": "35954",
+    "State": "al"
+  },
+  {
+    "City": "bay minette",
+    "Postal Code": "36507",
+    "State": "al"
+  },
+  {
+    "City": "bayou la batre",
+    "Postal Code": "36509",
+    "State": "al"
+  },
+  {
+    "City": "bear creek",
+    "Postal Code": "35543",
+    "State": "al"
+  },
+  {
+    "City": "berry",
+    "Postal Code": "35546",
+    "State": "al"
+  },
+  {
+    "City": "bessemer",
+    "Postal Code": "35020",
+    "State": "al"
+  },
+  {
+    "City": "blountsville",
+    "Postal Code": "35031",
+    "State": "al"
+  },
+  {
+    "City": "brent",
+    "Postal Code": "35034",
+    "State": "al"
+  },
+  {
+    "City": "brewton",
+    "Postal Code": "36426",
+    "State": "al"
+  },
+  {
+    "City": "brilliant",
+    "Postal Code": "35548",
+    "State": "al"
+  },
+  {
+    "City": "brookside",
+    "Postal Code": "35036",
+    "State": "al"
+  },
+  {
+    "City": "brookwood",
+    "Postal Code": "35444",
+    "State": "al"
+  },
+  {
+    "City": "brundidge",
+    "Postal Code": "36010",
+    "State": "al"
+  },
+  {
+    "City": "cedar bluff",
+    "Postal Code": "35959",
+    "State": "al"
+  },
+  {
+    "City": "centre",
+    "Postal Code": "35042",
+    "State": "al"
+  },
+  {
+    "City": "centreville",
+    "Postal Code": "35042",
+    "State": "al"
+  },
+  {
+    "City": "chatom",
+    "Postal Code": "36518",
+    "State": "al"
+  },
+  {
+    "City": "citronelle",
+    "Postal Code": "36522",
+    "State": "al"
+  },
+  {
+    "City": "clanton",
+    "Postal Code": "35045",
+    "State": "al"
+  },
+  {
+    "City": "coosada",
+    "Postal Code": "36020",
+    "State": "al"
+  },
+  {
+    "City": "cordova",
+    "Postal Code": "99574",
+    "State": "ak"
+  },
+  {
+    "City": "cottonwood",
+    "Postal Code": "86326",
+    "State": "az"
+  },
+  {
+    "City": "courtland",
+    "Postal Code": "35618",
+    "State": "al"
+  },
+  {
+    "City": "creola",
+    "Postal Code": "36525",
+    "State": "al"
+  },
+  {
+    "City": "cullman",
+    "Postal Code": "35055",
+    "State": "al"
+  },
+  {
+    "City": "dadeville",
+    "Postal Code": "36853",
+    "State": "al"
+  },
+  {
+    "City": "daphne",
+    "Postal Code": "36526",
+    "State": "al"
+  },
+  {
+    "City": "dauphin island",
+    "Postal Code": "36528",
+    "State": "al"
+  },
+  {
+    "City": "demopolis",
+    "Postal Code": "36732",
+    "State": "al"
+  },
+  {
+    "City": "dora",
+    "Postal Code": "35062",
+    "State": "al"
+  },
+  {
+    "City": "dothan",
+    "Postal Code": "36301",
+    "State": "al"
+  },
+  {
+    "City": "double springs",
+    "Postal Code": "35553",
+    "State": "al"
+  },
+  {
+    "City": "eclectic",
+    "Postal Code": "36024",
+    "State": "al"
+  },
+  {
+    "City": "elba",
+    "Postal Code": "36323",
+    "State": "al"
+  },
+  {
+    "City": "elberta",
+    "Postal Code": "36530",
+    "State": "al"
+  },
+  {
+    "City": "enterprise",
+    "Postal Code": "36330",
+    "State": "al"
+  },
+  {
+    "City": "excel",
+    "Postal Code": "36439",
+    "State": "al"
+  },
+  {
+    "City": "fairhope",
+    "Postal Code": "36532",
+    "State": "al"
+  },
+  {
+    "City": "falkville",
+    "Postal Code": "35622",
+    "State": "al"
+  },
+  {
+    "City": "flomaton",
+    "Postal Code": "36441",
+    "State": "al"
+  },
+  {
+    "City": "fort deposit",
+    "Postal Code": "36032",
+    "State": "al"
+  },
+  {
+    "City": "fort payne",
+    "Postal Code": "35967",
+    "State": "al"
+  },
+  {
+    "City": "frisco city",
+    "Postal Code": "36445",
+    "State": "al"
+  },
+  {
+    "City": "fultondale",
+    "Postal Code": "35068",
+    "State": "al"
+  },
+  {
+    "City": "fyffe",
+    "Postal Code": "35971",
+    "State": "al"
+  },
+  {
+    "City": "gadsden",
+    "Postal Code": "35901",
+    "State": "al"
+  },
+  {
+    "City": "gardendale",
+    "Postal Code": "35071",
+    "State": "al"
+  },
+  {
+    "City": "georgiana",
+    "Postal Code": "36033",
+    "State": "al"
+  },
+  {
+    "City": "geraldine",
+    "Postal Code": "35974",
+    "State": "al"
+  },
+  {
+    "City": "grove hill",
+    "Postal Code": "36451",
+    "State": "al"
+  },
+  {
+    "City": "guin",
+    "Postal Code": "35563",
+    "State": "al"
+  },
+  {
+    "City": "gulf shores",
+    "Postal Code": "36542",
+    "State": "al"
+  },
+  {
+    "City": "guntersville",
+    "Postal Code": "35976",
+    "State": "al"
+  },
+  {
+    "City": "gurley",
+    "Postal Code": "35748",
+    "State": "al"
+  },
+  {
+    "City": "haleyville",
+    "Postal Code": "35565",
+    "State": "al"
+  },
+  {
+    "City": "hanceville",
+    "Postal Code": "35077",
+    "State": "al"
+  },
+  {
+    "City": "harpersville",
+    "Postal Code": "35078",
+    "State": "al"
+  },
+  {
+    "City": "hartselle",
+    "Postal Code": "35640",
+    "State": "al"
+  },
+  {
+    "City": "hayden",
+    "Postal Code": "81639",
+    "State": "co"
+  },
+  {
+    "City": "hayneville",
+    "Postal Code": "36040",
+    "State": "al"
+  },
+  {
+    "City": "headland",
+    "Postal Code": "36345",
+    "State": "al"
+  },
+  {
+    "City": "heflin",
+    "Postal Code": "36264",
+    "State": "al"
+  },
+  {
+    "City": "henagar",
+    "Postal Code": "35978",
+    "State": "al"
+  },
+  {
+    "City": "hollywood",
+    "Postal Code": "35752",
+    "State": "al"
+  },
+  {
+    "City": "homewood",
+    "Postal Code": "60430",
+    "State": "il"
+  },
+  {
+    "City": "ider",
+    "Postal Code": "35981",
+    "State": "al"
+  },
+  {
+    "City": "jacksons gap",
+    "Postal Code": "36861",
+    "State": "al"
+  },
+  {
+    "City": "jemison",
+    "Postal Code": "35085",
+    "State": "al"
+  },
+  {
+    "City": "killen",
+    "Postal Code": "35645",
+    "State": "al"
+  },
+  {
+    "City": "kimberly",
+    "Postal Code": "83341",
+    "State": "id"
+  },
+  {
+    "City": "lanett",
+    "Postal Code": "36863",
+    "State": "al"
+  },
+  {
+    "City": "leeds",
+    "Postal Code": "35094",
+    "State": "al"
+  },
+  {
+    "City": "lineville",
+    "Postal Code": "36266",
+    "State": "al"
+  },
+  {
+    "City": "loxley",
+    "Postal Code": "36551",
+    "State": "al"
+  },
+  {
+    "City": "luverne",
+    "Postal Code": "36049",
+    "State": "al"
+  },
+  {
+    "City": "maplesville",
+    "Postal Code": "36750",
+    "State": "al"
+  },
+  {
+    "City": "midland city",
+    "Postal Code": "36350",
+    "State": "al"
+  },
+  {
+    "City": "millbrook",
+    "Postal Code": "36054",
+    "State": "al"
+  },
+  {
+    "City": "mobile",
+    "Postal Code": "36601",
+    "State": "al"
+  },
+  {
+    "City": "montevallo",
+    "Postal Code": "35115",
+    "State": "al"
+  },
+  {
+    "City": "moody",
+    "Postal Code": "35004",
+    "State": "al"
+  },
+  {
+    "City": "muscle shoals",
+    "Postal Code": "35661",
+    "State": "al"
+  },
+  {
+    "City": "new brockton",
+    "Postal Code": "36351",
+    "State": "al"
+  },
+  {
+    "City": "newville",
+    "Postal Code": "36353",
+    "State": "al"
+  },
+  {
+    "City": "northport",
+    "Postal Code": "35473",
+    "State": "al"
+  },
+  {
+    "City": "notasulga",
+    "Postal Code": "36866",
+    "State": "al"
+  },
+  {
+    "City": "odenville",
+    "Postal Code": "35120",
+    "State": "al"
+  },
+  {
+    "City": "ohatchee",
+    "Postal Code": "36047",
+    "State": "al"
+  },
+  {
+    "City": "oneonta",
+    "Postal Code": "35121",
+    "State": "al"
+  },
+  {
+    "City": "opelika",
+    "Postal Code": "36801",
+    "State": "al"
+  },
+  {
+    "City": "opp",
+    "Postal Code": "35087",
+    "State": "al"
+  },
+  {
+    "City": "orange beach",
+    "Postal Code": "36561",
+    "State": "al"
+  },
+  {
+    "City": "owens cross roads",
+    "Postal Code": "35763",
+    "State": "al"
+  },
+  {
+    "City": "parrish",
+    "Postal Code": "35580",
+    "State": "al"
+  },
+  {
+    "City": "pell city",
+    "Postal Code": "35125",
+    "State": "al"
+  },
+  {
+    "City": "phenix city",
+    "Postal Code": "36867",
+    "State": "al"
+  },
+  {
+    "City": "prattville",
+    "Postal Code": "36066",
+    "State": "al"
+  },
+  {
+    "City": "ragland",
+    "Postal Code": "35131",
+    "State": "al"
+  },
+  {
+    "City": "rainbow city",
+    "Postal Code": "35906",
+    "State": "al"
+  },
+  {
+    "City": "rainsville",
+    "Postal Code": "35986",
+    "State": "al"
+  },
+  {
+    "City": "ranburne",
+    "Postal Code": "36273",
+    "State": "al"
+  },
+  {
+    "City": "red bay",
+    "Postal Code": "35582",
+    "State": "al"
+  },
+  {
+    "City": "robertsdale",
+    "Postal Code": "36567",
+    "State": "al"
+  },
+  {
+    "City": "saraland",
+    "Postal Code": "36571",
+    "State": "al"
+  },
+  {
+    "City": "satsuma",
+    "Postal Code": "36572",
+    "State": "al"
+  },
+  {
+    "City": "semmes",
+    "Postal Code": "36575",
+    "State": "al"
+  },
+  {
+    "City": "sheffield",
+    "Postal Code": "35660",
+    "State": "al"
+  },
+  {
+    "City": "silverhill",
+    "Postal Code": "36576",
+    "State": "al"
+  },
+  {
+    "City": "spanish fort",
+    "Postal Code": "36527",
+    "State": "al"
+  },
+  {
+    "City": "stevenson",
+    "Postal Code": "35772",
+    "State": "al"
+  },
+  {
+    "City": "sulligent",
+    "Postal Code": "35586",
+    "State": "al"
+  },
+  {
+    "City": "sumiton",
+    "Postal Code": "35148",
+    "State": "al"
+  },
+  {
+    "City": "summerdale",
+    "Postal Code": "36580",
+    "State": "al"
+  },
+  {
+    "City": "sylacauga",
+    "Postal Code": "35150",
+    "State": "al"
+  },
+  {
+    "City": "talladega",
+    "Postal Code": "35160",
+    "State": "al"
+  },
+  {
+    "City": "tallassee",
+    "Postal Code": "36023",
+    "State": "al"
+  },
+  {
+    "City": "thomasville",
+    "Postal Code": "31757",
+    "State": "ga"
+  },
+  {
+    "City": "thorsby",
+    "Postal Code": "35171",
+    "State": "al"
+  },
+  {
+    "City": "trinity",
+    "Postal Code": "35673",
+    "State": "al"
+  },
+  {
+    "City": "trussville",
+    "Postal Code": "35173",
+    "State": "al"
+  },
+  {
+    "City": "tuscaloosa",
+    "Postal Code": "35401",
+    "State": "al"
+  },
+  {
+    "City": "tuscumbia",
+    "Postal Code": "35674",
+    "State": "al"
+  },
+  {
+    "City": "tuskegee",
+    "Postal Code": "36083",
+    "State": "al"
+  },
+  {
+    "City": "union springs",
+    "Postal Code": "36089",
+    "State": "al"
+  },
+  {
+    "City": "vance",
+    "Postal Code": "35490",
+    "State": "al"
+  },
+  {
+    "City": "wadley",
+    "Postal Code": "30477",
+    "State": "ga"
+  },
+  {
+    "City": "warrior",
+    "Postal Code": "35180",
+    "State": "al"
+  },
+  {
+    "City": "weaver",
+    "Postal Code": "36277",
+    "State": "al"
+  },
+  {
+    "City": "wedowee",
+    "Postal Code": "36278",
+    "State": "al"
+  },
+  {
+    "City": "wetumpka",
+    "Postal Code": "36092",
+    "State": "al"
+  },
+  {
+    "City": "craig",
+    "Postal Code": "99921",
+    "State": "ak"
+  },
+  {
+    "City": "fairbanks",
+    "Postal Code": "99701",
+    "State": "ak"
+  },
+  {
+    "City": "haines",
+    "Postal Code": "99827",
+    "State": "ak"
+  },
+  {
+    "City": "homer",
+    "Postal Code": "99603",
+    "State": "ak"
+  },
+  {
+    "City": "juneau",
+    "Postal Code": "99801",
+    "State": "ak"
+  },
+  {
+    "City": "kenai",
+    "Postal Code": "99611",
+    "State": "ak"
+  },
+  {
+    "City": "ketchikan",
+    "Postal Code": "99901",
+    "State": "ak"
+  },
+  {
+    "City": "kodiak",
+    "Postal Code": "99615",
+    "State": "ak"
+  },
+  {
+    "City": "kotzebue",
+    "Postal Code": "99752",
+    "State": "ak"
+  },
+  {
+    "City": "nome",
+    "Postal Code": "99762",
+    "State": "ak"
+  },
+  {
+    "City": "north pole",
+    "Postal Code": "99705",
+    "State": "ak"
+  },
+  {
+    "City": "sitka",
+    "Postal Code": "99835",
+    "State": "ak"
+  },
+  {
+    "City": "skagway",
+    "Postal Code": "99840",
+    "State": "ak"
+  },
+  {
+    "City": "soldotna",
+    "Postal Code": "99669",
+    "State": "ak"
+  },
+  {
+    "City": "unalaska",
+    "Postal Code": "99685",
+    "State": "ak"
+  },
+  {
+    "City": "valdez",
+    "Postal Code": "99686",
+    "State": "ak"
+  },
+  {
+    "City": "wasilla",
+    "Postal Code": "99629",
+    "State": "ak"
+  },
+  {
+    "City": "wrangell",
+    "Postal Code": "99929",
+    "State": "ak"
+  },
+  {
+    "City": "apache junction",
+    "Postal Code": "85119",
+    "State": "az"
+  },
+  {
+    "City": "avondale",
+    "Postal Code": "85323",
+    "State": "az"
+  },
+  {
+    "City": "bisbee",
+    "Postal Code": "85603",
+    "State": "az"
+  },
+  {
+    "City": "buckeye",
+    "Postal Code": "85326",
+    "State": "az"
+  },
+  {
+    "City": "bullhead city",
+    "Postal Code": "86429",
+    "State": "az"
+  },
+  {
+    "City": "camp verde",
+    "Postal Code": "86322",
+    "State": "az"
+  },
+  {
+    "City": "casa grande",
+    "Postal Code": "85122",
+    "State": "az"
+  },
+  {
+    "City": "chino valley",
+    "Postal Code": "86323",
+    "State": "az"
+  },
+  {
+    "City": "clarkdale",
+    "Postal Code": "86324",
+    "State": "az"
+  },
+  {
+    "City": "coolidge",
+    "Postal Code": "85128",
+    "State": "az"
+  },
+  {
+    "City": "el mirage",
+    "Postal Code": "85335",
+    "State": "az"
+  },
+  {
+    "City": "eloy",
+    "Postal Code": "85131",
+    "State": "az"
+  },
+  {
+    "City": "flagstaff",
+    "Postal Code": "86001",
+    "State": "az"
+  },
+  {
+    "City": "fredonia",
+    "Postal Code": "66736",
+    "State": "ks"
+  },
+  {
+    "City": "globe",
+    "Postal Code": "85501",
+    "State": "az"
+  },
+  {
+    "City": "goodyear",
+    "Postal Code": "85338",
+    "State": "az"
+  },
+  {
+    "City": "huachuca city",
+    "Postal Code": "85616",
+    "State": "az"
+  },
+  {
+    "City": "jerome",
+    "Postal Code": "83338",
+    "State": "id"
+  },
+  {
+    "City": "kingman",
+    "Postal Code": "67068",
+    "State": "ks"
+  },
+  {
+    "City": "lake havasu city",
+    "Postal Code": "86403",
+    "State": "az"
+  },
+  {
+    "City": "litchfield park",
+    "Postal Code": "85340",
+    "State": "az"
+  },
+  {
+    "City": "marana",
+    "Postal Code": "85653",
+    "State": "az"
+  },
+  {
+    "City": "maricopa",
+    "Postal Code": "85138",
+    "State": "az"
+  },
+  {
+    "City": "mesa",
+    "Postal Code": "85201",
+    "State": "az"
+  },
+  {
+    "City": "nogales",
+    "Postal Code": "85621",
+    "State": "az"
+  },
+  {
+    "City": "oro valley",
+    "Postal Code": "85755",
+    "State": "az"
+  },
+  {
+    "City": "page",
+    "Postal Code": "86040",
+    "State": "az"
+  },
+  {
+    "City": "paradise valley",
+    "Postal Code": "85253",
+    "State": "az"
+  },
+  {
+    "City": "peoria",
+    "Postal Code": "61601",
+    "State": "il"
+  },
+  {
+    "City": "prescott valley",
+    "Postal Code": "86312",
+    "State": "az"
+  },
+  {
+    "City": "queen creek",
+    "Postal Code": "85140",
+    "State": "az"
+  },
+  {
+    "City": "sahuarita",
+    "Postal Code": "85629",
+    "State": "az"
+  },
+  {
+    "City": "san luis",
+    "Postal Code": "85349",
+    "State": "az"
+  },
+  {
+    "City": "scottsdale",
+    "Postal Code": "85250",
+    "State": "az"
+  },
+  {
+    "City": "show low",
+    "Postal Code": "85901",
+    "State": "az"
+  },
+  {
+    "City": "sierra vista",
+    "Postal Code": "85635",
+    "State": "az"
+  },
+  {
+    "City": "somerton",
+    "Postal Code": "85350",
+    "State": "az"
+  },
+  {
+    "City": "surprise",
+    "Postal Code": "85374",
+    "State": "az"
+  },
+  {
+    "City": "tempe",
+    "Postal Code": "85280",
+    "State": "az"
+  },
+  {
+    "City": "thatcher",
+    "Postal Code": "85552",
+    "State": "az"
+  },
+  {
+    "City": "wickenburg",
+    "Postal Code": "85358",
+    "State": "az"
+  },
+  {
+    "City": "willcox",
+    "Postal Code": "85643",
+    "State": "az"
+  },
+  {
+    "City": "williams",
+    "Postal Code": "95987",
+    "State": "ca"
+  },
+  {
+    "City": "yuma",
+    "Postal Code": "85364",
+    "State": "az"
+  },
+  {
+    "City": "alexander",
+    "Postal Code": "72002",
+    "State": "ar"
+  },
+  {
+    "City": "amity",
+    "Postal Code": "71921",
+    "State": "ar"
+  },
+  {
+    "City": "arkadelphia",
+    "Postal Code": "71923",
+    "State": "ar"
+  },
+  {
+    "City": "ashdown",
+    "Postal Code": "71822",
+    "State": "ar"
+  },
+  {
+    "City": "ash flat",
+    "Postal Code": "72513",
+    "State": "ar"
+  },
+  {
+    "City": "atkins",
+    "Postal Code": "72822",
+    "State": "ar"
+  },
+  {
+    "City": "bald knob",
+    "Postal Code": "72010",
+    "State": "ar"
+  },
+  {
+    "City": "barling",
+    "Postal Code": "72923",
+    "State": "ar"
+  },
+  {
+    "City": "bay",
+    "Postal Code": "72088",
+    "State": "ar"
+  },
+  {
+    "City": "beebe",
+    "Postal Code": "72012",
+    "State": "ar"
+  },
+  {
+    "City": "bella vista",
+    "Postal Code": "72714",
+    "State": "ar"
+  },
+  {
+    "City": "bentonville",
+    "Postal Code": "72712",
+    "State": "ar"
+  },
+  {
+    "City": "black rock",
+    "Postal Code": "72415",
+    "State": "ar"
+  },
+  {
+    "City": "blytheville",
+    "Postal Code": "72315",
+    "State": "ar"
+  },
+  {
+    "City": "bono",
+    "Postal Code": "72416",
+    "State": "ar"
+  },
+  {
+    "City": "brinkley",
+    "Postal Code": "72021",
+    "State": "ar"
+  },
+  {
+    "City": "brookland",
+    "Postal Code": "72417",
+    "State": "ar"
+  },
+  {
+    "City": "bryant",
+    "Postal Code": "72022",
+    "State": "ar"
+  },
+  {
+    "City": "bull shoals",
+    "Postal Code": "72619",
+    "State": "ar"
+  },
+  {
+    "City": "cabot",
+    "Postal Code": "72023",
+    "State": "ar"
+  },
+  {
+    "City": "caraway",
+    "Postal Code": "72419",
+    "State": "ar"
+  },
+  {
+    "City": "cave springs",
+    "Postal Code": "72718",
+    "State": "ar"
+  },
+  {
+    "City": "centerton",
+    "Postal Code": "72719",
+    "State": "ar"
+  },
+  {
+    "City": "cherokee village",
+    "Postal Code": "72525",
+    "State": "ar"
+  },
+  {
+    "City": "cherry valley",
+    "Postal Code": "61016",
+    "State": "il"
+  },
+  {
+    "City": "clarendon",
+    "Postal Code": "72029",
+    "State": "ar"
+  },
+  {
+    "City": "cotter",
+    "Postal Code": "72626",
+    "State": "ar"
+  },
+  {
+    "City": "crossett",
+    "Postal Code": "71635",
+    "State": "ar"
+  },
+  {
+    "City": "dardanelle",
+    "Postal Code": "72834",
+    "State": "ar"
+  },
+  {
+    "City": "de queen",
+    "Postal Code": "71832",
+    "State": "ar"
+  },
+  {
+    "City": "des arc",
+    "Postal Code": "72040",
+    "State": "ar"
+  },
+  {
+    "City": "de valls bluff",
+    "Postal Code": "72041",
+    "State": "ar"
+  },
+  {
+    "City": "diamond city",
+    "Postal Code": "72630",
+    "State": "ar"
+  },
+  {
+    "City": "diaz",
+    "Postal Code": "72043",
+    "State": "ar"
+  },
+  {
+    "City": "earle",
+    "Postal Code": "72331",
+    "State": "ar"
+  },
+  {
+    "City": "el dorado",
+    "Postal Code": "67042",
+    "State": "ks"
+  },
+  {
+    "City": "elkins",
+    "Postal Code": "72727",
+    "State": "ar"
+  },
+  {
+    "City": "england",
+    "Postal Code": "72046",
+    "State": "ar"
+  },
+  {
+    "City": "eudora",
+    "Postal Code": "66025",
+    "State": "ks"
+  },
+  {
+    "City": "eureka springs",
+    "Postal Code": "72631",
+    "State": "ar"
+  },
+  {
+    "City": "fairfield bay",
+    "Postal Code": "72088",
+    "State": "ar"
+  },
+  {
+    "City": "flippin",
+    "Postal Code": "72634",
+    "State": "ar"
+  },
+  {
+    "City": "fordyce",
+    "Postal Code": "71742",
+    "State": "ar"
+  },
+  {
+    "City": "forrest city",
+    "Postal Code": "72335",
+    "State": "ar"
+  },
+  {
+    "City": "fort smith",
+    "Postal Code": "72901",
+    "State": "ar"
+  },
+  {
+    "City": "gassville",
+    "Postal Code": "72635",
+    "State": "ar"
+  },
+  {
+    "City": "gentry",
+    "Postal Code": "72734",
+    "State": "ar"
+  },
+  {
+    "City": "gillett",
+    "Postal Code": "72055",
+    "State": "ar"
+  },
+  {
+    "City": "gosnell",
+    "Postal Code": "72319",
+    "State": "ar"
+  },
+  {
+    "City": "gravette",
+    "Postal Code": "72736",
+    "State": "ar"
+  },
+  {
+    "City": "green forest",
+    "Postal Code": "72638",
+    "State": "ar"
+  },
+  {
+    "City": "greenland",
+    "Postal Code": "72737",
+    "State": "ar"
+  },
+  {
+    "City": "gurdon",
+    "Postal Code": "71743",
+    "State": "ar"
+  },
+  {
+    "City": "hackett",
+    "Postal Code": "72937",
+    "State": "ar"
+  },
+  {
+    "City": "hardy",
+    "Postal Code": "72542",
+    "State": "ar"
+  },
+  {
+    "City": "hazen",
+    "Postal Code": "72064",
+    "State": "ar"
+  },
+  {
+    "City": "heber springs",
+    "Postal Code": "72543",
+    "State": "ar"
+  },
+  {
+    "City": "higginson",
+    "Postal Code": "72068",
+    "State": "ar"
+  },
+  {
+    "City": "highland",
+    "Postal Code": "46322",
+    "State": "in"
+  },
+  {
+    "City": "hope",
+    "Postal Code": "71801",
+    "State": "ar"
+  },
+  {
+    "City": "hoxie",
+    "Postal Code": "72433",
+    "State": "ar"
+  },
+  {
+    "City": "humphrey",
+    "Postal Code": "72073",
+    "State": "ar"
+  },
+  {
+    "City": "johnson",
+    "Postal Code": "72741",
+    "State": "ar"
+  },
+  {
+    "City": "jonesboro",
+    "Postal Code": "72401",
+    "State": "ar"
+  },
+  {
+    "City": "judsonia",
+    "Postal Code": "72081",
+    "State": "ar"
+  },
+  {
+    "City": "kensett",
+    "Postal Code": "72082",
+    "State": "ar"
+  },
+  {
+    "City": "lake village",
+    "Postal Code": "71653",
+    "State": "ar"
+  },
+  {
+    "City": "lavaca",
+    "Postal Code": "72941",
+    "State": "ar"
+  },
+  {
+    "City": "leachville",
+    "Postal Code": "72438",
+    "State": "ar"
+  },
+  {
+    "City": "lead hill",
+    "Postal Code": "72644",
+    "State": "ar"
+  },
+  {
+    "City": "lepanto",
+    "Postal Code": "72354",
+    "State": "ar"
+  },
+  {
+    "City": "little rock",
+    "Postal Code": "72099",
+    "State": "ar"
+  },
+  {
+    "City": "lonoke",
+    "Postal Code": "72086",
+    "State": "ar"
+  },
+  {
+    "City": "luxora",
+    "Postal Code": "72358",
+    "State": "ar"
+  },
+  {
+    "City": "malvern",
+    "Postal Code": "72104",
+    "State": "ar"
+  },
+  {
+    "City": "mammoth spring",
+    "Postal Code": "72554",
+    "State": "ar"
+  },
+  {
+    "City": "manila",
+    "Postal Code": "72442",
+    "State": "ar"
+  },
+  {
+    "City": "marianna",
+    "Postal Code": "72360",
+    "State": "ar"
+  },
+  {
+    "City": "marked tree",
+    "Postal Code": "72365",
+    "State": "ar"
+  },
+  {
+    "City": "marmaduke",
+    "Postal Code": "72443",
+    "State": "ar"
+  },
+  {
+    "City": "maumelle",
+    "Postal Code": "72113",
+    "State": "ar"
+  },
+  {
+    "City": "mayflower",
+    "Postal Code": "72106",
+    "State": "ar"
+  },
+  {
+    "City": "mena",
+    "Postal Code": "71953",
+    "State": "ar"
+  },
+  {
+    "City": "monette",
+    "Postal Code": "72447",
+    "State": "ar"
+  },
+  {
+    "City": "morrilton",
+    "Postal Code": "72110",
+    "State": "ar"
+  },
+  {
+    "City": "mountain home",
+    "Postal Code": "83647",
+    "State": "id"
+  },
+  {
+    "City": "mulberry",
+    "Postal Code": "72947",
+    "State": "ar"
+  },
+  {
+    "City": "nashville",
+    "Postal Code": "31639",
+    "State": "ga"
+  },
+  {
+    "City": "norfork",
+    "Postal Code": "72658",
+    "State": "ar"
+  },
+  {
+    "City": "north little rock",
+    "Postal Code": "72114",
+    "State": "ar"
+  },
+  {
+    "City": "ola",
+    "Postal Code": "72047",
+    "State": "ar"
+  },
+  {
+    "City": "paragould",
+    "Postal Code": "72450",
+    "State": "ar"
+  },
+  {
+    "City": "parkin",
+    "Postal Code": "72373",
+    "State": "ar"
+  },
+  {
+    "City": "pea ridge",
+    "Postal Code": "72751",
+    "State": "ar"
+  },
+  {
+    "City": "piggott",
+    "Postal Code": "72454",
+    "State": "ar"
+  },
+  {
+    "City": "pine bluff",
+    "Postal Code": "71601",
+    "State": "ar"
+  },
+  {
+    "City": "plumerville",
+    "Postal Code": "72127",
+    "State": "ar"
+  },
+  {
+    "City": "pocahontas",
+    "Postal Code": "72455",
+    "State": "ar"
+  },
+  {
+    "City": "ravenden",
+    "Postal Code": "72459",
+    "State": "ar"
+  },
+  {
+    "City": "redfield",
+    "Postal Code": "72132",
+    "State": "ar"
+  },
+  {
+    "City": "rose bud",
+    "Postal Code": "72137",
+    "State": "ar"
+  },
+  {
+    "City": "searcy",
+    "Postal Code": "72143",
+    "State": "ar"
+  },
+  {
+    "City": "siloam springs",
+    "Postal Code": "72761",
+    "State": "ar"
+  },
+  {
+    "City": "smackover",
+    "Postal Code": "71762",
+    "State": "ar"
+  },
+  {
+    "City": "stamps",
+    "Postal Code": "71860",
+    "State": "ar"
+  },
+  {
+    "City": "stuttgart",
+    "Postal Code": "72160",
+    "State": "ar"
+  },
+  {
+    "City": "swifton",
+    "Postal Code": "72471",
+    "State": "ar"
+  },
+  {
+    "City": "tontitown",
+    "Postal Code": "72770",
+    "State": "ar"
+  },
+  {
+    "City": "trumann",
+    "Postal Code": "72472",
+    "State": "ar"
+  },
+  {
+    "City": "tuckerman",
+    "Postal Code": "72473",
+    "State": "ar"
+  },
+  {
+    "City": "tyronza",
+    "Postal Code": "72386",
+    "State": "ar"
+  },
+  {
+    "City": "van buren",
+    "Postal Code": "72956",
+    "State": "ar"
+  },
+  {
+    "City": "vilonia",
+    "Postal Code": "72173",
+    "State": "ar"
+  },
+  {
+    "City": "waldron",
+    "Postal Code": "72958",
+    "State": "ar"
+  },
+  {
+    "City": "walnut ridge",
+    "Postal Code": "72476",
+    "State": "ar"
+  },
+  {
+    "City": "ward",
+    "Postal Code": "72176",
+    "State": "ar"
+  },
+  {
+    "City": "weiner",
+    "Postal Code": "72479",
+    "State": "ar"
+  },
+  {
+    "City": "west fork",
+    "Postal Code": "72774",
+    "State": "ar"
+  },
+  {
+    "City": "west memphis",
+    "Postal Code": "72301",
+    "State": "ar"
+  },
+  {
+    "City": "white hall",
+    "Postal Code": "62092",
+    "State": "il"
+  },
+  {
+    "City": "wynne",
+    "Postal Code": "72396",
+    "State": "ar"
+  },
+  {
+    "City": "agoura hills",
+    "Postal Code": "91301",
+    "State": "ca"
+  },
+  {
+    "City": "alameda",
+    "Postal Code": "94501",
+    "State": "ca"
+  },
+  {
+    "City": "albany",
+    "Postal Code": "97321",
+    "State": "or"
+  },
+  {
+    "City": "alhambra",
+    "Postal Code": "91801",
+    "State": "ca"
+  },
+  {
+    "City": "aliso viejo",
+    "Postal Code": "92656",
+    "State": "ca"
+  },
+  {
+    "City": "alturas",
+    "Postal Code": "96101",
+    "State": "ca"
+  },
+  {
+    "City": "american canyon",
+    "Postal Code": "94503",
+    "State": "ca"
+  },
+  {
+    "City": "anaheim",
+    "Postal Code": "92801",
+    "State": "ca"
+  },
+  {
+    "City": "angels camp",
+    "Postal Code": "95222",
+    "State": "ca"
+  },
+  {
+    "City": "antioch",
+    "Postal Code": "60002",
+    "State": "il"
+  },
+  {
+    "City": "arcata",
+    "Postal Code": "95518",
+    "State": "ca"
+  },
+  {
+    "City": "arroyo grande",
+    "Postal Code": "93420",
+    "State": "ca"
+  },
+  {
+    "City": "atascadero",
+    "Postal Code": "93422",
+    "State": "ca"
+  },
+  {
+    "City": "atherton",
+    "Postal Code": "94027",
+    "State": "ca"
+  },
+  {
+    "City": "atwater",
+    "Postal Code": "95301",
+    "State": "ca"
+  },
+  {
+    "City": "avalon",
+    "Postal Code": "90704",
+    "State": "ca"
+  },
+  {
+    "City": "avenal",
+    "Postal Code": "93204",
+    "State": "ca"
+  },
+  {
+    "City": "azusa",
+    "Postal Code": "91702",
+    "State": "ca"
+  },
+  {
+    "City": "bakersfield",
+    "Postal Code": "93301",
+    "State": "ca"
+  },
+  {
+    "City": "baldwin park",
+    "Postal Code": "91706",
+    "State": "ca"
+  },
+  {
+    "City": "banning",
+    "Postal Code": "92220",
+    "State": "ca"
+  },
+  {
+    "City": "barstow",
+    "Postal Code": "92311",
+    "State": "ca"
+  },
+  {
+    "City": "bear valley",
+    "Postal Code": "93570",
+    "State": "ca"
+  },
+  {
+    "City": "bell",
+    "Postal Code": "90201",
+    "State": "ca"
+  },
+  {
+    "City": "bellflower",
+    "Postal Code": "90706",
+    "State": "ca"
+  },
+  {
+    "City": "bell gardens",
+    "Postal Code": "90202",
+    "State": "ca"
+  },
+  {
+    "City": "belvedere",
+    "Postal Code": "94920",
+    "State": "ca"
+  },
+  {
+    "City": "benicia",
+    "Postal Code": "94510",
+    "State": "ca"
+  },
+  {
+    "City": "bishop",
+    "Postal Code": "93514",
+    "State": "ca"
+  },
+  {
+    "City": "blythe",
+    "Postal Code": "30805",
+    "State": "ga"
+  },
+  {
+    "City": "brea",
+    "Postal Code": "92621",
+    "State": "ca"
+  },
+  {
+    "City": "brisbane",
+    "Postal Code": "94005",
+    "State": "ca"
+  },
+  {
+    "City": "buellton",
+    "Postal Code": "93427",
+    "State": "ca"
+  },
+  {
+    "City": "buena park",
+    "Postal Code": "90620",
+    "State": "ca"
+  },
+  {
+    "City": "burbank",
+    "Postal Code": "60459",
+    "State": "il"
+  },
+  {
+    "City": "burlingame",
+    "Postal Code": "94010",
+    "State": "ca"
+  },
+  {
+    "City": "calabasas",
+    "Postal Code": "91302",
+    "State": "ca"
+  },
+  {
+    "City": "calexico",
+    "Postal Code": "92231",
+    "State": "ca"
+  },
+  {
+    "City": "california city",
+    "Postal Code": "93504",
+    "State": "ca"
+  },
+  {
+    "City": "calimesa",
+    "Postal Code": "92320",
+    "State": "ca"
+  },
+  {
+    "City": "calistoga",
+    "Postal Code": "94515",
+    "State": "ca"
+  },
+  {
+    "City": "camarillo",
+    "Postal Code": "93010",
+    "State": "ca"
+  },
+  {
+    "City": "capitola",
+    "Postal Code": "95010",
+    "State": "ca"
+  },
+  {
+    "City": "carmel",
+    "Postal Code": "46032",
+    "State": "in"
+  },
+  {
+    "City": "carpinteria",
+    "Postal Code": "93013",
+    "State": "ca"
+  },
+  {
+    "City": "carson",
+    "Postal Code": "90745",
+    "State": "ca"
+  },
+  {
+    "City": "cathedral city",
+    "Postal Code": "92234",
+    "State": "ca"
+  },
+  {
+    "City": "ceres",
+    "Postal Code": "95307",
+    "State": "ca"
+  },
+  {
+    "City": "cerritos",
+    "Postal Code": "90703",
+    "State": "ca"
+  },
+  {
+    "City": "chico",
+    "Postal Code": "95926",
+    "State": "ca"
+  },
+  {
+    "City": "chino",
+    "Postal Code": "91708",
+    "State": "ca"
+  },
+  {
+    "City": "chowchilla",
+    "Postal Code": "93610",
+    "State": "ca"
+  },
+  {
+    "City": "chula vista",
+    "Postal Code": "91909",
+    "State": "ca"
+  },
+  {
+    "City": "citrus heights",
+    "Postal Code": "95610",
+    "State": "ca"
+  },
+  {
+    "City": "claremont",
+    "Postal Code": "91711",
+    "State": "ca"
+  },
+  {
+    "City": "clearlake",
+    "Postal Code": "95422",
+    "State": "ca"
+  },
+  {
+    "City": "cloverdale",
+    "Postal Code": "95425",
+    "State": "ca"
+  },
+  {
+    "City": "coachella",
+    "Postal Code": "92236",
+    "State": "ca"
+  },
+  {
+    "City": "coalinga",
+    "Postal Code": "93210",
+    "State": "ca"
+  },
+  {
+    "City": "colton",
+    "Postal Code": "92324",
+    "State": "ca"
+  },
+  {
+    "City": "colusa",
+    "Postal Code": "95932",
+    "State": "ca"
+  },
+  {
+    "City": "compton",
+    "Postal Code": "90220",
+    "State": "ca"
+  },
+  {
+    "City": "corona",
+    "Postal Code": "91718",
+    "State": "ca"
+  },
+  {
+    "City": "coronado",
+    "Postal Code": "92118",
+    "State": "ca"
+  },
+  {
+    "City": "cotati",
+    "Postal Code": "94926",
+    "State": "ca"
+  },
+  {
+    "City": "covina",
+    "Postal Code": "91722",
+    "State": "ca"
+  },
+  {
+    "City": "crescent city",
+    "Postal Code": "32112",
+    "State": "fl"
+  },
+  {
+    "City": "culver city",
+    "Postal Code": "90230",
+    "State": "ca"
+  },
+  {
+    "City": "cupertino",
+    "Postal Code": "95014",
+    "State": "ca"
+  },
+  {
+    "City": "cypress",
+    "Postal Code": "90630",
+    "State": "ca"
+  },
+  {
+    "City": "daly city",
+    "Postal Code": "94013",
+    "State": "ca"
+  },
+  {
+    "City": "dana point",
+    "Postal Code": "92629",
+    "State": "ca"
+  },
+  {
+    "City": "delano",
+    "Postal Code": "93215",
+    "State": "ca"
+  },
+  {
+    "City": "del mar",
+    "Postal Code": "92014",
+    "State": "ca"
+  },
+  {
+    "City": "desert hot springs",
+    "Postal Code": "92240",
+    "State": "ca"
+  },
+  {
+    "City": "diamond bar",
+    "Postal Code": "91765",
+    "State": "ca"
+  },
+  {
+    "City": "dinuba",
+    "Postal Code": "93618",
+    "State": "ca"
+  },
+  {
+    "City": "dixon",
+    "Postal Code": "61021",
+    "State": "il"
+  },
+  {
+    "City": "dorris",
+    "Postal Code": "96023",
+    "State": "ca"
+  },
+  {
+    "City": "dos palos",
+    "Postal Code": "93620",
+    "State": "ca"
+  },
+  {
+    "City": "downey",
+    "Postal Code": "90239",
+    "State": "ca"
+  },
+  {
+    "City": "duarte",
+    "Postal Code": "91008",
+    "State": "ca"
+  },
+  {
+    "City": "dunsmuir",
+    "Postal Code": "96025",
+    "State": "ca"
+  },
+  {
+    "City": "el cajon",
+    "Postal Code": "92019",
+    "State": "ca"
+  },
+  {
+    "City": "el centro",
+    "Postal Code": "92243",
+    "State": "ca"
+  },
+  {
+    "City": "el cerrito",
+    "Postal Code": "94530",
+    "State": "ca"
+  },
+  {
+    "City": "elk grove",
+    "Postal Code": "95624",
+    "State": "ca"
+  },
+  {
+    "City": "el monte",
+    "Postal Code": "91731",
+    "State": "ca"
+  },
+  {
+    "City": "el segundo",
+    "Postal Code": "90245",
+    "State": "ca"
+  },
+  {
+    "City": "emeryville",
+    "Postal Code": "94608",
+    "State": "ca"
+  },
+  {
+    "City": "encinitas",
+    "Postal Code": "92023",
+    "State": "ca"
+  },
+  {
+    "City": "escalon",
+    "Postal Code": "95320",
+    "State": "ca"
+  },
+  {
+    "City": "escondido",
+    "Postal Code": "92025",
+    "State": "ca"
+  },
+  {
+    "City": "fillmore",
+    "Postal Code": "93015",
+    "State": "ca"
+  },
+  {
+    "City": "firebaugh",
+    "Postal Code": "93622",
+    "State": "ca"
+  },
+  {
+    "City": "folsom",
+    "Postal Code": "95630",
+    "State": "ca"
+  },
+  {
+    "City": "fort bragg",
+    "Postal Code": "95437",
+    "State": "ca"
+  },
+  {
+    "City": "fort jones",
+    "Postal Code": "96032",
+    "State": "ca"
+  },
+  {
+    "City": "fortuna",
+    "Postal Code": "95540",
+    "State": "ca"
+  },
+  {
+    "City": "fountain valley",
+    "Postal Code": "92708",
+    "State": "ca"
+  },
+  {
+    "City": "fowler",
+    "Postal Code": "93625",
+    "State": "ca"
+  },
+  {
+    "City": "fresno",
+    "Postal Code": "93650",
+    "State": "ca"
+  },
+  {
+    "City": "fullerton",
+    "Postal Code": "92632",
+    "State": "ca"
+  },
+  {
+    "City": "galt",
+    "Postal Code": "95632",
+    "State": "ca"
+  },
+  {
+    "City": "gardena",
+    "Postal Code": "90247",
+    "State": "ca"
+  },
+  {
+    "City": "garden grove",
+    "Postal Code": "92641",
+    "State": "ca"
+  },
+  {
+    "City": "gilroy",
+    "Postal Code": "95020",
+    "State": "ca"
+  },
+  {
+    "City": "glendora",
+    "Postal Code": "91740",
+    "State": "ca"
+  },
+  {
+    "City": "goleta",
+    "Postal Code": "93116",
+    "State": "ca"
+  },
+  {
+    "City": "grass valley",
+    "Postal Code": "95945",
+    "State": "ca"
+  },
+  {
+    "City": "gridley",
+    "Postal Code": "95948",
+    "State": "ca"
+  },
+  {
+    "City": "grover beach",
+    "Postal Code": "93433",
+    "State": "ca"
+  },
+  {
+    "City": "guadalupe",
+    "Postal Code": "93434",
+    "State": "ca"
+  },
+  {
+    "City": "gustine",
+    "Postal Code": "95322",
+    "State": "ca"
+  },
+  {
+    "City": "hanford",
+    "Postal Code": "93230",
+    "State": "ca"
+  },
+  {
+    "City": "hawaiian gardens",
+    "Postal Code": "90716",
+    "State": "ca"
+  },
+  {
+    "City": "healdsburg",
+    "Postal Code": "95448",
+    "State": "ca"
+  },
+  {
+    "City": "hemet",
+    "Postal Code": "92543",
+    "State": "ca"
+  },
+  {
+    "City": "hercules",
+    "Postal Code": "94547",
+    "State": "ca"
+  },
+  {
+    "City": "hermosa beach",
+    "Postal Code": "90254",
+    "State": "ca"
+  },
+  {
+    "City": "hidden hills",
+    "Postal Code": "91370",
+    "State": "ca"
+  },
+  {
+    "City": "holtville",
+    "Postal Code": "92250",
+    "State": "ca"
+  },
+  {
+    "City": "hughson",
+    "Postal Code": "95326",
+    "State": "ca"
+  },
+  {
+    "City": "huntington beach",
+    "Postal Code": "92605",
+    "State": "ca"
+  },
+  {
+    "City": "huntington park",
+    "Postal Code": "90255",
+    "State": "ca"
+  },
+  {
+    "City": "imperial",
+    "Postal Code": "91932",
+    "State": "ca"
+  },
+  {
+    "City": "imperial beach",
+    "Postal Code": "91932",
+    "State": "ca"
+  },
+  {
+    "City": "indian wells",
+    "Postal Code": "92210",
+    "State": "ca"
+  },
+  {
+    "City": "indio",
+    "Postal Code": "92201",
+    "State": "ca"
+  },
+  {
+    "City": "industry",
+    "Postal Code": "91714",
+    "State": "ca"
+  },
+  {
+    "City": "inglewood",
+    "Postal Code": "90301",
+    "State": "ca"
+  },
+  {
+    "City": "ione",
+    "Postal Code": "92268",
+    "State": "ca"
+  },
+  {
+    "City": "isleton",
+    "Postal Code": "95641",
+    "State": "ca"
+  },
+  {
+    "City": "kerman",
+    "Postal Code": "93630",
+    "State": "ca"
+  },
+  {
+    "City": "kingsburg",
+    "Postal Code": "93631",
+    "State": "ca"
+  },
+  {
+    "City": "la canada flintridge",
+    "Postal Code": "91011",
+    "State": "ca"
+  },
+  {
+    "City": "laguna beach",
+    "Postal Code": "92651",
+    "State": "ca"
+  },
+  {
+    "City": "laguna hills",
+    "Postal Code": "92637",
+    "State": "ca"
+  },
+  {
+    "City": "laguna niguel",
+    "Postal Code": "92607",
+    "State": "ca"
+  },
+  {
+    "City": "la habra",
+    "Postal Code": "90631",
+    "State": "ca"
+  },
+  {
+    "City": "lake elsinore",
+    "Postal Code": "92530",
+    "State": "ca"
+  },
+  {
+    "City": "lake forest",
+    "Postal Code": "60045",
+    "State": "il"
+  },
+  {
+    "City": "la mesa",
+    "Postal Code": "91941",
+    "State": "ca"
+  },
+  {
+    "City": "la mirada",
+    "Postal Code": "90637",
+    "State": "ca"
+  },
+  {
+    "City": "la palma",
+    "Postal Code": "90623",
+    "State": "ca"
+  },
+  {
+    "City": "la puente",
+    "Postal Code": "91744",
+    "State": "ca"
+  },
+  {
+    "City": "la quinta",
+    "Postal Code": "92247",
+    "State": "ca"
+  },
+  {
+    "City": "la verne",
+    "Postal Code": "91750",
+    "State": "ca"
+  },
+  {
+    "City": "lawndale",
+    "Postal Code": "90260",
+    "State": "ca"
+  },
+  {
+    "City": "lemon grove",
+    "Postal Code": "91945",
+    "State": "ca"
+  },
+  {
+    "City": "lemoore",
+    "Postal Code": "93245",
+    "State": "ca"
+  },
+  {
+    "City": "livermore",
+    "Postal Code": "94550",
+    "State": "ca"
+  },
+  {
+    "City": "lomita",
+    "Postal Code": "90717",
+    "State": "ca"
+  },
+  {
+    "City": "lompoc",
+    "Postal Code": "93436",
+    "State": "ca"
+  },
+  {
+    "City": "los alamitos",
+    "Postal Code": "90720",
+    "State": "ca"
+  },
+  {
+    "City": "los altos",
+    "Postal Code": "94022",
+    "State": "ca"
+  },
+  {
+    "City": "los angeles",
+    "Postal Code": "90001",
+    "State": "ca"
+  },
+  {
+    "City": "los banos",
+    "Postal Code": "93635",
+    "State": "ca"
+  },
+  {
+    "City": "los gatos",
+    "Postal Code": "95030",
+    "State": "ca"
+  },
+  {
+    "City": "lynwood",
+    "Postal Code": "90262",
+    "State": "ca"
+  },
+  {
+    "City": "madera",
+    "Postal Code": "93636",
+    "State": "ca"
+  },
+  {
+    "City": "malibu",
+    "Postal Code": "90263",
+    "State": "ca"
+  },
+  {
+    "City": "mammoth lakes",
+    "Postal Code": "93546",
+    "State": "ca"
+  },
+  {
+    "City": "manhattan beach",
+    "Postal Code": "90266",
+    "State": "ca"
+  },
+  {
+    "City": "manteca",
+    "Postal Code": "95336",
+    "State": "ca"
+  },
+  {
+    "City": "marina",
+    "Postal Code": "90292",
+    "State": "ca"
+  },
+  {
+    "City": "martinez",
+    "Postal Code": "94553",
+    "State": "ca"
+  },
+  {
+    "City": "mendota",
+    "Postal Code": "61342",
+    "State": "il"
+  },
+  {
+    "City": "menifee",
+    "Postal Code": "92584",
+    "State": "ca"
+  },
+  {
+    "City": "menlo park",
+    "Postal Code": "94025",
+    "State": "ca"
+  },
+  {
+    "City": "merced",
+    "Postal Code": "95340",
+    "State": "ca"
+  },
+  {
+    "City": "mill valley",
+    "Postal Code": "94941",
+    "State": "ca"
+  },
+  {
+    "City": "milpitas",
+    "Postal Code": "95035",
+    "State": "ca"
+  },
+  {
+    "City": "mission viejo",
+    "Postal Code": "92690",
+    "State": "ca"
+  },
+  {
+    "City": "modesto",
+    "Postal Code": "95350",
+    "State": "ca"
+  },
+  {
+    "City": "monrovia",
+    "Postal Code": "91016",
+    "State": "ca"
+  },
+  {
+    "City": "monterey park",
+    "Postal Code": "91754",
+    "State": "ca"
+  },
+  {
+    "City": "moorpark",
+    "Postal Code": "93020",
+    "State": "ca"
+  },
+  {
+    "City": "moraga",
+    "Postal Code": "94556",
+    "State": "ca"
+  },
+  {
+    "City": "moreno valley",
+    "Postal Code": "92551",
+    "State": "ca"
+  },
+  {
+    "City": "morgan hill",
+    "Postal Code": "95037",
+    "State": "ca"
+  },
+  {
+    "City": "morro bay",
+    "Postal Code": "93442",
+    "State": "ca"
+  },
+  {
+    "City": "mount shasta",
+    "Postal Code": "96067",
+    "State": "ca"
+  },
+  {
+    "City": "murrieta",
+    "Postal Code": "92562",
+    "State": "ca"
+  },
+  {
+    "City": "napa",
+    "Postal Code": "94558",
+    "State": "ca"
+  },
+  {
+    "City": "national city",
+    "Postal Code": "91950",
+    "State": "ca"
+  },
+  {
+    "City": "nevada city",
+    "Postal Code": "95959",
+    "State": "ca"
+  },
+  {
+    "City": "newman",
+    "Postal Code": "61942",
+    "State": "il"
+  },
+  {
+    "City": "newport beach",
+    "Postal Code": "92658",
+    "State": "ca"
+  },
+  {
+    "City": "norco",
+    "Postal Code": "91760",
+    "State": "ca"
+  },
+  {
+    "City": "novato",
+    "Postal Code": "94945",
+    "State": "ca"
+  },
+  {
+    "City": "oakley",
+    "Postal Code": "94561",
+    "State": "ca"
+  },
+  {
+    "City": "oceanside",
+    "Postal Code": "92049",
+    "State": "ca"
+  },
+  {
+    "City": "ojai",
+    "Postal Code": "93023",
+    "State": "ca"
+  },
+  {
+    "City": "orange cove",
+    "Postal Code": "93646",
+    "State": "ca"
+  },
+  {
+    "City": "orinda",
+    "Postal Code": "94563",
+    "State": "ca"
+  },
+  {
+    "City": "orland",
+    "Postal Code": "92281",
+    "State": "ca"
+  },
+  {
+    "City": "oroville",
+    "Postal Code": "95965",
+    "State": "ca"
+  },
+  {
+    "City": "oxnard",
+    "Postal Code": "93030",
+    "State": "ca"
+  },
+  {
+    "City": "pacifica",
+    "Postal Code": "94044",
+    "State": "ca"
+  },
+  {
+    "City": "pacific grove",
+    "Postal Code": "93950",
+    "State": "ca"
+  },
+  {
+    "City": "palmdale",
+    "Postal Code": "93550",
+    "State": "ca"
+  },
+  {
+    "City": "palm desert",
+    "Postal Code": "92211",
+    "State": "ca"
+  },
+  {
+    "City": "palm springs",
+    "Postal Code": "92258",
+    "State": "ca"
+  },
+  {
+    "City": "palo alto",
+    "Postal Code": "94301",
+    "State": "ca"
+  },
+  {
+    "City": "paradise",
+    "Postal Code": "95967",
+    "State": "ca"
+  },
+  {
+    "City": "paramount",
+    "Postal Code": "90723",
+    "State": "ca"
+  },
+  {
+    "City": "parlier",
+    "Postal Code": "93648",
+    "State": "ca"
+  },
+  {
+    "City": "paso robles",
+    "Postal Code": "93446",
+    "State": "ca"
+  },
+  {
+    "City": "perris",
+    "Postal Code": "92570",
+    "State": "ca"
+  },
+  {
+    "City": "petaluma",
+    "Postal Code": "94952",
+    "State": "ca"
+  },
+  {
+    "City": "pico rivera",
+    "Postal Code": "90660",
+    "State": "ca"
+  },
+  {
+    "City": "pinole",
+    "Postal Code": "94564",
+    "State": "ca"
+  },
+  {
+    "City": "pismo beach",
+    "Postal Code": "93448",
+    "State": "ca"
+  },
+  {
+    "City": "placentia",
+    "Postal Code": "92670",
+    "State": "ca"
+  },
+  {
+    "City": "placerville",
+    "Postal Code": "95667",
+    "State": "ca"
+  },
+  {
+    "City": "pomona",
+    "Postal Code": "91766",
+    "State": "ca"
+  },
+  {
+    "City": "porterville",
+    "Postal Code": "93257",
+    "State": "ca"
+  },
+  {
+    "City": "port hueneme",
+    "Postal Code": "93041",
+    "State": "ca"
+  },
+  {
+    "City": "poway",
+    "Postal Code": "92064",
+    "State": "ca"
+  },
+  {
+    "City": "rancho cordova",
+    "Postal Code": "95670",
+    "State": "ca"
+  },
+  {
+    "City": "rancho mirage",
+    "Postal Code": "92270",
+    "State": "ca"
+  },
+  {
+    "City": "rancho palos verdes",
+    "Postal Code": "90275",
+    "State": "ca"
+  },
+  {
+    "City": "rancho santa margarita",
+    "Postal Code": "92688",
+    "State": "ca"
+  },
+  {
+    "City": "red bluff",
+    "Postal Code": "96080",
+    "State": "ca"
+  },
+  {
+    "City": "redlands",
+    "Postal Code": "92373",
+    "State": "ca"
+  },
+  {
+    "City": "redondo beach",
+    "Postal Code": "90277",
+    "State": "ca"
+  },
+  {
+    "City": "redwood city",
+    "Postal Code": "94059",
+    "State": "ca"
+  },
+  {
+    "City": "reedley",
+    "Postal Code": "93654",
+    "State": "ca"
+  },
+  {
+    "City": "rialto",
+    "Postal Code": "92376",
+    "State": "ca"
+  },
+  {
+    "City": "ridgecrest",
+    "Postal Code": "93555",
+    "State": "ca"
+  },
+  {
+    "City": "rio dell",
+    "Postal Code": "95562",
+    "State": "ca"
+  },
+  {
+    "City": "rio vista",
+    "Postal Code": "94571",
+    "State": "ca"
+  },
+  {
+    "City": "riverbank",
+    "Postal Code": "95367",
+    "State": "ca"
+  },
+  {
+    "City": "rocklin",
+    "Postal Code": "95677",
+    "State": "ca"
+  },
+  {
+    "City": "rohnert park",
+    "Postal Code": "94927",
+    "State": "ca"
+  },
+  {
+    "City": "rosemead",
+    "Postal Code": "91770",
+    "State": "ca"
+  },
+  {
+    "City": "ross",
+    "Postal Code": "94957",
+    "State": "ca"
+  },
+  {
+    "City": "sacramento",
+    "Postal Code": "94203",
+    "State": "ca"
+  },
+  {
+    "City": "salinas",
+    "Postal Code": "93901",
+    "State": "ca"
+  },
+  {
+    "City": "san bernardino",
+    "Postal Code": "92401",
+    "State": "ca"
+  },
+  {
+    "City": "san bruno",
+    "Postal Code": "94066",
+    "State": "ca"
+  },
+  {
+    "City": "san clemente",
+    "Postal Code": "92672",
+    "State": "ca"
+  },
+  {
+    "City": "san diego",
+    "Postal Code": "92101",
+    "State": "ca"
+  },
+  {
+    "City": "san dimas",
+    "Postal Code": "91773",
+    "State": "ca"
+  },
+  {
+    "City": "san fernando",
+    "Postal Code": "91340",
+    "State": "ca"
+  },
+  {
+    "City": "san francisco",
+    "Postal Code": "94080",
+    "State": "ca"
+  },
+  {
+    "City": "san gabriel",
+    "Postal Code": "91775",
+    "State": "ca"
+  },
+  {
+    "City": "san jacinto",
+    "Postal Code": "92581",
+    "State": "ca"
+  },
+  {
+    "City": "san juan capistrano",
+    "Postal Code": "92675",
+    "State": "ca"
+  },
+  {
+    "City": "san leandro",
+    "Postal Code": "94577",
+    "State": "ca"
+  },
+  {
+    "City": "san luis obispo",
+    "Postal Code": "93401",
+    "State": "ca"
+  },
+  {
+    "City": "san marino",
+    "Postal Code": "91108",
+    "State": "ca"
+  },
+  {
+    "City": "san mateo",
+    "Postal Code": "94401",
+    "State": "ca"
+  },
+  {
+    "City": "san pablo",
+    "Postal Code": "94806",
+    "State": "ca"
+  },
+  {
+    "City": "san rafael",
+    "Postal Code": "94901",
+    "State": "ca"
+  },
+  {
+    "City": "san ramon",
+    "Postal Code": "94582",
+    "State": "ca"
+  },
+  {
+    "City": "santa ana",
+    "Postal Code": "92701",
+    "State": "ca"
+  },
+  {
+    "City": "santa barbara",
+    "Postal Code": "93101",
+    "State": "ca"
+  },
+  {
+    "City": "santa clarita",
+    "Postal Code": "91350",
+    "State": "ca"
+  },
+  {
+    "City": "santa cruz",
+    "Postal Code": "95060",
+    "State": "ca"
+  },
+  {
+    "City": "santa fe springs",
+    "Postal Code": "90670",
+    "State": "ca"
+  },
+  {
+    "City": "santa maria",
+    "Postal Code": "93454",
+    "State": "ca"
+  },
+  {
+    "City": "santa monica",
+    "Postal Code": "90401",
+    "State": "ca"
+  },
+  {
+    "City": "santa paula",
+    "Postal Code": "93060",
+    "State": "ca"
+  },
+  {
+    "City": "santee",
+    "Postal Code": "92071",
+    "State": "ca"
+  },
+  {
+    "City": "saratoga",
+    "Postal Code": "95070",
+    "State": "ca"
+  },
+  {
+    "City": "sausalito",
+    "Postal Code": "94965",
+    "State": "ca"
+  },
+  {
+    "City": "scotts valley",
+    "Postal Code": "95066",
+    "State": "ca"
+  },
+  {
+    "City": "seal beach",
+    "Postal Code": "90740",
+    "State": "ca"
+  },
+  {
+    "City": "sebastopol",
+    "Postal Code": "95472",
+    "State": "ca"
+  },
+  {
+    "City": "shafter",
+    "Postal Code": "93263",
+    "State": "ca"
+  },
+  {
+    "City": "sierra madre",
+    "Postal Code": "91024",
+    "State": "ca"
+  },
+  {
+    "City": "signal hill",
+    "Postal Code": "90755",
+    "State": "ca"
+  },
+  {
+    "City": "simi valley",
+    "Postal Code": "93062",
+    "State": "ca"
+  },
+  {
+    "City": "solana beach",
+    "Postal Code": "92075",
+    "State": "ca"
+  },
+  {
+    "City": "soledad",
+    "Postal Code": "93960",
+    "State": "ca"
+  },
+  {
+    "City": "solvang",
+    "Postal Code": "93463",
+    "State": "ca"
+  },
+  {
+    "City": "sonoma",
+    "Postal Code": "95476",
+    "State": "ca"
+  },
+  {
+    "City": "south el monte",
+    "Postal Code": "91733",
+    "State": "ca"
+  },
+  {
+    "City": "south gate",
+    "Postal Code": "90280",
+    "State": "ca"
+  },
+  {
+    "City": "south lake tahoe",
+    "Postal Code": "96150",
+    "State": "ca"
+  },
+  {
+    "City": "south san francisco",
+    "Postal Code": "94080",
+    "State": "ca"
+  },
+  {
+    "City": "stockton",
+    "Postal Code": "61085",
+    "State": "il"
+  },
+  {
+    "City": "suisun city",
+    "Postal Code": "94585",
+    "State": "ca"
+  },
+  {
+    "City": "susanville",
+    "Postal Code": "96127",
+    "State": "ca"
+  },
+  {
+    "City": "sutter creek",
+    "Postal Code": "95685",
+    "State": "ca"
+  },
+  {
+    "City": "tehachapi",
+    "Postal Code": "93561",
+    "State": "ca"
+  },
+  {
+    "City": "temecula",
+    "Postal Code": "92589",
+    "State": "ca"
+  },
+  {
+    "City": "temple city",
+    "Postal Code": "91780",
+    "State": "ca"
+  },
+  {
+    "City": "thousand oaks",
+    "Postal Code": "91358",
+    "State": "ca"
+  },
+  {
+    "City": "tiburon",
+    "Postal Code": "94920",
+    "State": "ca"
+  },
+  {
+    "City": "torrance",
+    "Postal Code": "90501",
+    "State": "ca"
+  },
+  {
+    "City": "truckee",
+    "Postal Code": "96160",
+    "State": "ca"
+  },
+  {
+    "City": "tulare",
+    "Postal Code": "93274",
+    "State": "ca"
+  },
+  {
+    "City": "tulelake",
+    "Postal Code": "96134",
+    "State": "ca"
+  },
+  {
+    "City": "turlock",
+    "Postal Code": "95380",
+    "State": "ca"
+  },
+  {
+    "City": "tustin",
+    "Postal Code": "92680",
+    "State": "ca"
+  },
+  {
+    "City": "ukiah",
+    "Postal Code": "95482",
+    "State": "ca"
+  },
+  {
+    "City": "upland",
+    "Postal Code": "91784",
+    "State": "ca"
+  },
+  {
+    "City": "vacaville",
+    "Postal Code": "95687",
+    "State": "ca"
+  },
+  {
+    "City": "vallejo",
+    "Postal Code": "94589",
+    "State": "ca"
+  },
+  {
+    "City": "ventura",
+    "Postal Code": "93001",
+    "State": "ca"
+  },
+  {
+    "City": "villa park",
+    "Postal Code": "60181",
+    "State": "il"
+  },
+  {
+    "City": "visalia",
+    "Postal Code": "93277",
+    "State": "ca"
+  },
+  {
+    "City": "vista",
+    "Postal Code": "91909",
+    "State": "ca"
+  },
+  {
+    "City": "walnut creek",
+    "Postal Code": "94595",
+    "State": "ca"
+  },
+  {
+    "City": "waterford",
+    "Postal Code": "06385",
+    "State": "ct"
+  },
+  {
+    "City": "weed",
+    "Postal Code": "96094",
+    "State": "ca"
+  },
+  {
+    "City": "west covina",
+    "Postal Code": "91790",
+    "State": "ca"
+  },
+  {
+    "City": "west hollywood",
+    "Postal Code": "90069",
+    "State": "ca"
+  },
+  {
+    "City": "westlake village",
+    "Postal Code": "91359",
+    "State": "ca"
+  },
+  {
+    "City": "west sacramento",
+    "Postal Code": "95605",
+    "State": "ca"
+  },
+  {
+    "City": "wheatland",
+    "Postal Code": "95692",
+    "State": "ca"
+  },
+  {
+    "City": "whittier",
+    "Postal Code": "90601",
+    "State": "ca"
+  },
+  {
+    "City": "wildomar",
+    "Postal Code": "92595",
+    "State": "ca"
+  },
+  {
+    "City": "willits",
+    "Postal Code": "95490",
+    "State": "ca"
+  },
+  {
+    "City": "woodlake",
+    "Postal Code": "93286",
+    "State": "ca"
+  },
+  {
+    "City": "yorba linda",
+    "Postal Code": "92686",
+    "State": "ca"
+  },
+  {
+    "City": "yountville",
+    "Postal Code": "94599",
+    "State": "ca"
+  },
+  {
+    "City": "yuba city",
+    "Postal Code": "95991",
+    "State": "ca"
+  },
+  {
+    "City": "arvada",
+    "Postal Code": "80001",
+    "State": "co"
+  },
+  {
+    "City": "aspen",
+    "Postal Code": "81611",
+    "State": "co"
+  },
+  {
+    "City": "ault",
+    "Postal Code": "80610",
+    "State": "co"
+  },
+  {
+    "City": "basalt",
+    "Postal Code": "81621",
+    "State": "co"
+  },
+  {
+    "City": "bayfield",
+    "Postal Code": "81122",
+    "State": "co"
+  },
+  {
+    "City": "black hawk",
+    "Postal Code": "80422",
+    "State": "co"
+  },
+  {
+    "City": "boulder",
+    "Postal Code": "80301",
+    "State": "co"
+  },
+  {
+    "City": "broomfield",
+    "Postal Code": "80020",
+    "State": "co"
+  },
+  {
+    "City": "calhan",
+    "Postal Code": "80808",
+    "State": "co"
+  },
+  {
+    "City": "canon city",
+    "Postal Code": "81212",
+    "State": "co"
+  },
+  {
+    "City": "carbondale",
+    "Postal Code": "62901",
+    "State": "il"
+  },
+  {
+    "City": "colorado springs",
+    "Postal Code": "80901",
+    "State": "co"
+  },
+  {
+    "City": "commerce city",
+    "Postal Code": "80022",
+    "State": "co"
+  },
+  {
+    "City": "cortez",
+    "Postal Code": "81321",
+    "State": "co"
+  },
+  {
+    "City": "crested butte",
+    "Postal Code": "81224",
+    "State": "co"
+  },
+  {
+    "City": "dacono",
+    "Postal Code": "80514",
+    "State": "co"
+  },
+  {
+    "City": "denver",
+    "Postal Code": "50622",
+    "State": "ia"
+  },
+  {
+    "City": "eagle",
+    "Postal Code": "81631",
+    "State": "co"
+  },
+  {
+    "City": "empire",
+    "Postal Code": "80438",
+    "State": "co"
+  },
+  {
+    "City": "estes park",
+    "Postal Code": "80511",
+    "State": "co"
+  },
+  {
+    "City": "evans",
+    "Postal Code": "80620",
+    "State": "co"
+  },
+  {
+    "City": "firestone",
+    "Postal Code": "80520",
+    "State": "co"
+  },
+  {
+    "City": "fort collins",
+    "Postal Code": "80521",
+    "State": "co"
+  },
+  {
+    "City": "fort lupton",
+    "Postal Code": "80621",
+    "State": "co"
+  },
+  {
+    "City": "fort morgan",
+    "Postal Code": "80701",
+    "State": "co"
+  },
+  {
+    "City": "fountain",
+    "Postal Code": "80817",
+    "State": "co"
+  },
+  {
+    "City": "fruita",
+    "Postal Code": "81521",
+    "State": "co"
+  },
+  {
+    "City": "glenwood springs",
+    "Postal Code": "81601",
+    "State": "co"
+  },
+  {
+    "City": "golden",
+    "Postal Code": "80401",
+    "State": "co"
+  },
+  {
+    "City": "grand junction",
+    "Postal Code": "81501",
+    "State": "co"
+  },
+  {
+    "City": "greeley",
+    "Postal Code": "80631",
+    "State": "co"
+  },
+  {
+    "City": "gunnison",
+    "Postal Code": "81230",
+    "State": "co"
+  },
+  {
+    "City": "gypsum",
+    "Postal Code": "81637",
+    "State": "co"
+  },
+  {
+    "City": "haxtun",
+    "Postal Code": "80731",
+    "State": "co"
+  },
+  {
+    "City": "hotchkiss",
+    "Postal Code": "81419",
+    "State": "co"
+  },
+  {
+    "City": "idaho springs",
+    "Postal Code": "80452",
+    "State": "co"
+  },
+  {
+    "City": "ignacio",
+    "Postal Code": "81137",
+    "State": "co"
+  },
+  {
+    "City": "kersey",
+    "Postal Code": "80644",
+    "State": "co"
+  },
+  {
+    "City": "kremmling",
+    "Postal Code": "80459",
+    "State": "co"
+  },
+  {
+    "City": "la junta",
+    "Postal Code": "81050",
+    "State": "co"
+  },
+  {
+    "City": "la salle",
+    "Postal Code": "61301",
+    "State": "il"
+  },
+  {
+    "City": "leadville",
+    "Postal Code": "80461",
+    "State": "co"
+  },
+  {
+    "City": "longmont",
+    "Postal Code": "80501",
+    "State": "co"
+  },
+  {
+    "City": "mancos",
+    "Postal Code": "81328",
+    "State": "co"
+  },
+  {
+    "City": "manitou springs",
+    "Postal Code": "80829",
+    "State": "co"
+  },
+  {
+    "City": "mead",
+    "Postal Code": "80542",
+    "State": "co"
+  },
+  {
+    "City": "milliken",
+    "Postal Code": "80543",
+    "State": "co"
+  },
+  {
+    "City": "monte vista",
+    "Postal Code": "81144",
+    "State": "co"
+  },
+  {
+    "City": "monument",
+    "Postal Code": "80132",
+    "State": "co"
+  },
+  {
+    "City": "new castle",
+    "Postal Code": "19720",
+    "State": "de"
+  },
+  {
+    "City": "pagosa springs",
+    "Postal Code": "81147",
+    "State": "co"
+  },
+  {
+    "City": "palisade",
+    "Postal Code": "81526",
+    "State": "co"
+  },
+  {
+    "City": "pueblo",
+    "Postal Code": "81001",
+    "State": "co"
+  },
+  {
+    "City": "rifle",
+    "Postal Code": "81650",
+    "State": "co"
+  },
+  {
+    "City": "rocky ford",
+    "Postal Code": "81067",
+    "State": "co"
+  },
+  {
+    "City": "salida",
+    "Postal Code": "81201",
+    "State": "co"
+  },
+  {
+    "City": "severance",
+    "Postal Code": "80546",
+    "State": "co"
+  },
+  {
+    "City": "silt",
+    "Postal Code": "81652",
+    "State": "co"
+  },
+  {
+    "City": "silverthorne",
+    "Postal Code": "80497",
+    "State": "co"
+  },
+  {
+    "City": "steamboat springs",
+    "Postal Code": "80477",
+    "State": "co"
+  },
+  {
+    "City": "telluride",
+    "Postal Code": "81435",
+    "State": "co"
+  },
+  {
+    "City": "timnath",
+    "Postal Code": "80547",
+    "State": "co"
+  },
+  {
+    "City": "trinidad",
+    "Postal Code": "81082",
+    "State": "co"
+  },
+  {
+    "City": "vail",
+    "Postal Code": "81657",
+    "State": "co"
+  },
+  {
+    "City": "walsh",
+    "Postal Code": "81090",
+    "State": "co"
+  },
+  {
+    "City": "wheat ridge",
+    "Postal Code": "80033",
+    "State": "co"
+  },
+  {
+    "City": "ansonia",
+    "Postal Code": "06401",
+    "State": "ct"
+  },
+  {
+    "City": "branford",
+    "Postal Code": "06405",
+    "State": "ct"
+  },
+  {
+    "City": "cromwell",
+    "Postal Code": "06416",
+    "State": "ct"
+  },
+  {
+    "City": "darien",
+    "Postal Code": "60561",
+    "State": "il"
+  },
+  {
+    "City": "derby",
+    "Postal Code": "06418",
+    "State": "ct"
+  },
+  {
+    "City": "east hampton",
+    "Postal Code": "06424",
+    "State": "ct"
+  },
+  {
+    "City": "east hartford",
+    "Postal Code": "06108",
+    "State": "ct"
+  },
+  {
+    "City": "east haven",
+    "Postal Code": "06512",
+    "State": "ct"
+  },
+  {
+    "City": "east lyme",
+    "Postal Code": "06333",
+    "State": "ct"
+  },
+  {
+    "City": "east windsor",
+    "Postal Code": "06028",
+    "State": "ct"
+  },
+  {
+    "City": "enfield",
+    "Postal Code": "06082",
+    "State": "ct"
+  },
+  {
+    "City": "glastonbury",
+    "Postal Code": "06025",
+    "State": "ct"
+  },
+  {
+    "City": "greenwich",
+    "Postal Code": "06830",
+    "State": "ct"
+  },
+  {
+    "City": "guilford",
+    "Postal Code": "06437",
+    "State": "ct"
+  },
+  {
+    "City": "hamden",
+    "Postal Code": "06514",
+    "State": "ct"
+  },
+  {
+    "City": "ledyard",
+    "Postal Code": "06339",
+    "State": "ct"
+  },
+  {
+    "City": "meriden",
+    "Postal Code": "06450",
+    "State": "ct"
+  },
+  {
+    "City": "naugatuck",
+    "Postal Code": "06770",
+    "State": "ct"
+  },
+  {
+    "City": "new britain",
+    "Postal Code": "06050",
+    "State": "ct"
+  },
+  {
+    "City": "new canaan",
+    "Postal Code": "06840",
+    "State": "ct"
+  },
+  {
+    "City": "new haven",
+    "Postal Code": "46774",
+    "State": "in"
+  },
+  {
+    "City": "north branford",
+    "Postal Code": "06471",
+    "State": "ct"
+  },
+  {
+    "City": "north haven",
+    "Postal Code": "06473",
+    "State": "ct"
+  },
+  {
+    "City": "old saybrook",
+    "Postal Code": "06475",
+    "State": "ct"
+  },
+  {
+    "City": "putnam",
+    "Postal Code": "06260",
+    "State": "ct"
+  },
+  {
+    "City": "redding",
+    "Postal Code": "06875",
+    "State": "ct"
+  },
+  {
+    "City": "rocky hill",
+    "Postal Code": "06067",
+    "State": "ct"
+  },
+  {
+    "City": "simsbury",
+    "Postal Code": "06070",
+    "State": "ct"
+  },
+  {
+    "City": "southington",
+    "Postal Code": "06489",
+    "State": "ct"
+  },
+  {
+    "City": "south windsor",
+    "Postal Code": "06074",
+    "State": "ct"
+  },
+  {
+    "City": "stonington",
+    "Postal Code": "06359",
+    "State": "ct"
+  },
+  {
+    "City": "suffield",
+    "Postal Code": "06078",
+    "State": "ct"
+  },
+  {
+    "City": "trumbull",
+    "Postal Code": "06611",
+    "State": "ct"
+  },
+  {
+    "City": "wallingford",
+    "Postal Code": "06492",
+    "State": "ct"
+  },
+  {
+    "City": "waterbury",
+    "Postal Code": "06701",
+    "State": "ct"
+  },
+  {
+    "City": "west haven",
+    "Postal Code": "06516",
+    "State": "ct"
+  },
+  {
+    "City": "wethersfield",
+    "Postal Code": "06109",
+    "State": "ct"
+  },
+  {
+    "City": "willimantic",
+    "Postal Code": "06226",
+    "State": "ct"
+  },
+  {
+    "City": "windsor locks",
+    "Postal Code": "06096",
+    "State": "ct"
+  },
+  {
+    "City": "wolcott",
+    "Postal Code": "06716",
+    "State": "ct"
+  },
+  {
+    "City": "woodbridge",
+    "Postal Code": "06525",
+    "State": "ct"
+  },
+  {
+    "City": "bethany beach",
+    "Postal Code": "19930",
+    "State": "de"
+  },
+  {
+    "City": "bridgeville",
+    "Postal Code": "19933",
+    "State": "de"
+  },
+  {
+    "City": "cheswold",
+    "Postal Code": "19936",
+    "State": "de"
+  },
+  {
+    "City": "dagsboro",
+    "Postal Code": "19939",
+    "State": "de"
+  },
+  {
+    "City": "delaware city",
+    "Postal Code": "19706",
+    "State": "de"
+  },
+  {
+    "City": "delmar",
+    "Postal Code": "19940",
+    "State": "de"
+  },
+  {
+    "City": "felton",
+    "Postal Code": "19943",
+    "State": "de"
+  },
+  {
+    "City": "frankford",
+    "Postal Code": "19945",
+    "State": "de"
+  },
+  {
+    "City": "harrington",
+    "Postal Code": "19952",
+    "State": "de"
+  },
+  {
+    "City": "lewes",
+    "Postal Code": "19958",
+    "State": "de"
+  },
+  {
+    "City": "millsboro",
+    "Postal Code": "19966",
+    "State": "de"
+  },
+  {
+    "City": "ocean view",
+    "Postal Code": "19970",
+    "State": "de"
+  },
+  {
+    "City": "rehoboth beach",
+    "Postal Code": "19971",
+    "State": "de"
+  },
+  {
+    "City": "seaford",
+    "Postal Code": "19973",
+    "State": "de"
+  },
+  {
+    "City": "selbyville",
+    "Postal Code": "19975",
+    "State": "de"
+  },
+  {
+    "City": "altamonte springs",
+    "Postal Code": "32701",
+    "State": "fl"
+  },
+  {
+    "City": "apopka",
+    "Postal Code": "32703",
+    "State": "fl"
+  },
+  {
+    "City": "auburndale",
+    "Postal Code": "33823",
+    "State": "fl"
+  },
+  {
+    "City": "bartow",
+    "Postal Code": "30413",
+    "State": "ga"
+  },
+  {
+    "City": "belleair",
+    "Postal Code": "33786",
+    "State": "fl"
+  },
+  {
+    "City": "belleair beach",
+    "Postal Code": "33786",
+    "State": "fl"
+  },
+  {
+    "City": "belle glade",
+    "Postal Code": "33430",
+    "State": "fl"
+  },
+  {
+    "City": "blountstown",
+    "Postal Code": "32424",
+    "State": "fl"
+  },
+  {
+    "City": "boca raton",
+    "Postal Code": "33427",
+    "State": "fl"
+  },
+  {
+    "City": "boynton beach",
+    "Postal Code": "33424",
+    "State": "fl"
+  },
+  {
+    "City": "bradenton",
+    "Postal Code": "34201",
+    "State": "fl"
+  },
+  {
+    "City": "bunnell",
+    "Postal Code": "32110",
+    "State": "fl"
+  },
+  {
+    "City": "casselberry",
+    "Postal Code": "32707",
+    "State": "fl"
+  },
+  {
+    "City": "clearwater",
+    "Postal Code": "67026",
+    "State": "ks"
+  },
+  {
+    "City": "clermont",
+    "Postal Code": "34711",
+    "State": "fl"
+  },
+  {
+    "City": "clewiston",
+    "Postal Code": "33440",
+    "State": "fl"
+  },
+  {
+    "City": "cross city",
+    "Postal Code": "32628",
+    "State": "fl"
+  },
+  {
+    "City": "defuniak springs",
+    "Postal Code": "32433",
+    "State": "fl"
+  },
+  {
+    "City": "dunedin",
+    "Postal Code": "34697",
+    "State": "fl"
+  },
+  {
+    "City": "fellsmere",
+    "Postal Code": "32948",
+    "State": "fl"
+  },
+  {
+    "City": "flagler beach",
+    "Postal Code": "32136",
+    "State": "fl"
+  },
+  {
+    "City": "fort pierce",
+    "Postal Code": "34945",
+    "State": "fl"
+  },
+  {
+    "City": "fort walton beach",
+    "Postal Code": "32547",
+    "State": "fl"
+  },
+  {
+    "City": "fruitland park",
+    "Postal Code": "34731",
+    "State": "fl"
+  },
+  {
+    "City": "green cove springs",
+    "Postal Code": "32043",
+    "State": "fl"
+  },
+  {
+    "City": "gulf breeze",
+    "Postal Code": "32561",
+    "State": "fl"
+  },
+  {
+    "City": "haines city",
+    "Postal Code": "33844",
+    "State": "fl"
+  },
+  {
+    "City": "holmes beach",
+    "Postal Code": "34218",
+    "State": "fl"
+  },
+  {
+    "City": "indian rocks beach",
+    "Postal Code": "33785",
+    "State": "fl"
+  },
+  {
+    "City": "key biscayne",
+    "Postal Code": "33149",
+    "State": "fl"
+  },
+  {
+    "City": "key west",
+    "Postal Code": "33040",
+    "State": "fl"
+  },
+  {
+    "City": "lake alfred",
+    "Postal Code": "33850",
+    "State": "fl"
+  },
+  {
+    "City": "lake hamilton",
+    "Postal Code": "33851",
+    "State": "fl"
+  },
+  {
+    "City": "lake helen",
+    "Postal Code": "32744",
+    "State": "fl"
+  },
+  {
+    "City": "lake mary",
+    "Postal Code": "32746",
+    "State": "fl"
+  },
+  {
+    "City": "lake park",
+    "Postal Code": "31636",
+    "State": "ga"
+  },
+  {
+    "City": "lake wales",
+    "Postal Code": "33853",
+    "State": "fl"
+  },
+  {
+    "City": "largo",
+    "Postal Code": "33037",
+    "State": "fl"
+  },
+  {
+    "City": "longboat key",
+    "Postal Code": "34228",
+    "State": "fl"
+  },
+  {
+    "City": "longwood",
+    "Postal Code": "32750",
+    "State": "fl"
+  },
+  {
+    "City": "lynn haven",
+    "Postal Code": "32444",
+    "State": "fl"
+  },
+  {
+    "City": "maitland",
+    "Postal Code": "32751",
+    "State": "fl"
+  },
+  {
+    "City": "marco island",
+    "Postal Code": "33937",
+    "State": "fl"
+  },
+  {
+    "City": "mascotte",
+    "Postal Code": "34753",
+    "State": "fl"
+  },
+  {
+    "City": "miramar",
+    "Postal Code": "32550",
+    "State": "fl"
+  },
+  {
+    "City": "neptune beach",
+    "Postal Code": "32266",
+    "State": "fl"
+  },
+  {
+    "City": "north miami beach",
+    "Postal Code": "33160",
+    "State": "fl"
+  },
+  {
+    "City": "north palm beach",
+    "Postal Code": "33408",
+    "State": "fl"
+  },
+  {
+    "City": "north port",
+    "Postal Code": "34286",
+    "State": "fl"
+  },
+  {
+    "City": "ocala",
+    "Postal Code": "34470",
+    "State": "fl"
+  },
+  {
+    "City": "okeechobee",
+    "Postal Code": "34972",
+    "State": "fl"
+  },
+  {
+    "City": "oldsmar",
+    "Postal Code": "34677",
+    "State": "fl"
+  },
+  {
+    "City": "oviedo",
+    "Postal Code": "32762",
+    "State": "fl"
+  },
+  {
+    "City": "pahokee",
+    "Postal Code": "33476",
+    "State": "fl"
+  },
+  {
+    "City": "palatka",
+    "Postal Code": "32131",
+    "State": "fl"
+  },
+  {
+    "City": "palm bay",
+    "Postal Code": "32905",
+    "State": "fl"
+  },
+  {
+    "City": "palmetto",
+    "Postal Code": "30268",
+    "State": "ga"
+  },
+  {
+    "City": "panama city",
+    "Postal Code": "32401",
+    "State": "fl"
+  },
+  {
+    "City": "pensacola",
+    "Postal Code": "32501",
+    "State": "fl"
+  },
+  {
+    "City": "pinellas park",
+    "Postal Code": "33780",
+    "State": "fl"
+  },
+  {
+    "City": "safety harbor",
+    "Postal Code": "34695",
+    "State": "fl"
+  },
+  {
+    "City": "satellite beach",
+    "Postal Code": "32937",
+    "State": "fl"
+  },
+  {
+    "City": "sebastian",
+    "Postal Code": "32958",
+    "State": "fl"
+  },
+  {
+    "City": "south bay",
+    "Postal Code": "33493",
+    "State": "fl"
+  },
+  {
+    "City": "tampa",
+    "Postal Code": "33601",
+    "State": "fl"
+  },
+  {
+    "City": "tarpon springs",
+    "Postal Code": "34688",
+    "State": "fl"
+  },
+  {
+    "City": "tavares",
+    "Postal Code": "32778",
+    "State": "fl"
+  },
+  {
+    "City": "titusville",
+    "Postal Code": "32780",
+    "State": "fl"
+  },
+  {
+    "City": "wauchula",
+    "Postal Code": "33873",
+    "State": "fl"
+  },
+  {
+    "City": "west palm beach",
+    "Postal Code": "33401",
+    "State": "fl"
+  },
+  {
+    "City": "wildwood",
+    "Postal Code": "34785",
+    "State": "fl"
+  },
+  {
+    "City": "winter haven",
+    "Postal Code": "33880",
+    "State": "fl"
+  },
+  {
+    "City": "winter park",
+    "Postal Code": "32789",
+    "State": "fl"
+  },
+  {
+    "City": "zephyrhills",
+    "Postal Code": "33539",
+    "State": "fl"
+  },
+  {
+    "City": "acworth",
+    "Postal Code": "30101",
+    "State": "ga"
+  },
+  {
+    "City": "adairsville",
+    "Postal Code": "30103",
+    "State": "ga"
+  },
+  {
+    "City": "alapaha",
+    "Postal Code": "31622",
+    "State": "ga"
+  },
+  {
+    "City": "alpharetta",
+    "Postal Code": "30004",
+    "State": "ga"
+  },
+  {
+    "City": "alto",
+    "Postal Code": "30510",
+    "State": "ga"
+  },
+  {
+    "City": "americus",
+    "Postal Code": "31709",
+    "State": "ga"
+  },
+  {
+    "City": "bainbridge",
+    "Postal Code": "31717",
+    "State": "ga"
+  },
+  {
+    "City": "ball ground",
+    "Postal Code": "30107",
+    "State": "ga"
+  },
+  {
+    "City": "baxley",
+    "Postal Code": "31513",
+    "State": "ga"
+  },
+  {
+    "City": "blackshear",
+    "Postal Code": "31516",
+    "State": "ga"
+  },
+  {
+    "City": "blairsville",
+    "Postal Code": "30512",
+    "State": "ga"
+  },
+  {
+    "City": "braselton",
+    "Postal Code": "30517",
+    "State": "ga"
+  },
+  {
+    "City": "bremen",
+    "Postal Code": "30110",
+    "State": "ga"
+  },
+  {
+    "City": "brooklet",
+    "Postal Code": "30415",
+    "State": "ga"
+  },
+  {
+    "City": "broxton",
+    "Postal Code": "31519",
+    "State": "ga"
+  },
+  {
+    "City": "byron",
+    "Postal Code": "31008",
+    "State": "ga"
+  },
+  {
+    "City": "cairo",
+    "Postal Code": "31728",
+    "State": "ga"
+  },
+  {
+    "City": "camilla",
+    "Postal Code": "31730",
+    "State": "ga"
+  },
+  {
+    "City": "cartersville",
+    "Postal Code": "30120",
+    "State": "ga"
+  },
+  {
+    "City": "cave spring",
+    "Postal Code": "30124",
+    "State": "ga"
+  },
+  {
+    "City": "cedartown",
+    "Postal Code": "30125",
+    "State": "ga"
+  },
+  {
+    "City": "chatsworth",
+    "Postal Code": "30705",
+    "State": "ga"
+  },
+  {
+    "City": "claxton",
+    "Postal Code": "30417",
+    "State": "ga"
+  },
+  {
+    "City": "cochran",
+    "Postal Code": "31014",
+    "State": "ga"
+  },
+  {
+    "City": "conyers",
+    "Postal Code": "30012",
+    "State": "ga"
+  },
+  {
+    "City": "cordele",
+    "Postal Code": "31010",
+    "State": "ga"
+  },
+  {
+    "City": "davisboro",
+    "Postal Code": "31018",
+    "State": "ga"
+  },
+  {
+    "City": "demorest",
+    "Postal Code": "30535",
+    "State": "ga"
+  },
+  {
+    "City": "doerun",
+    "Postal Code": "31744",
+    "State": "ga"
+  },
+  {
+    "City": "donalsonville",
+    "Postal Code": "31745",
+    "State": "ga"
+  },
+  {
+    "City": "douglasville",
+    "Postal Code": "30133",
+    "State": "ga"
+  },
+  {
+    "City": "east ellijay",
+    "Postal Code": "30539",
+    "State": "ga"
+  },
+  {
+    "City": "eastman",
+    "Postal Code": "31023",
+    "State": "ga"
+  },
+  {
+    "City": "eatonton",
+    "Postal Code": "31024",
+    "State": "ga"
+  },
+  {
+    "City": "elberton",
+    "Postal Code": "30635",
+    "State": "ga"
+  },
+  {
+    "City": "ellaville",
+    "Postal Code": "31806",
+    "State": "ga"
+  },
+  {
+    "City": "ellijay",
+    "Postal Code": "30536",
+    "State": "ga"
+  },
+  {
+    "City": "enigma",
+    "Postal Code": "31749",
+    "State": "ga"
+  },
+  {
+    "City": "eton",
+    "Postal Code": "30059",
+    "State": "ga"
+  },
+  {
+    "City": "fitzgerald",
+    "Postal Code": "31750",
+    "State": "ga"
+  },
+  {
+    "City": "flowery branch",
+    "Postal Code": "30542",
+    "State": "ga"
+  },
+  {
+    "City": "folkston",
+    "Postal Code": "31537",
+    "State": "ga"
+  },
+  {
+    "City": "franklin springs",
+    "Postal Code": "30639",
+    "State": "ga"
+  },
+  {
+    "City": "grantville",
+    "Postal Code": "30220",
+    "State": "ga"
+  },
+  {
+    "City": "gray",
+    "Postal Code": "30017",
+    "State": "ga"
+  },
+  {
+    "City": "griffin",
+    "Postal Code": "30223",
+    "State": "ga"
+  },
+  {
+    "City": "grovetown",
+    "Postal Code": "30813",
+    "State": "ga"
+  },
+  {
+    "City": "hahira",
+    "Postal Code": "31632",
+    "State": "ga"
+  },
+  {
+    "City": "hartwell",
+    "Postal Code": "30643",
+    "State": "ga"
+  },
+  {
+    "City": "hazlehurst",
+    "Postal Code": "31539",
+    "State": "ga"
+  },
+  {
+    "City": "helen",
+    "Postal Code": "30545",
+    "State": "ga"
+  },
+  {
+    "City": "hephzibah",
+    "Postal Code": "30815",
+    "State": "ga"
+  },
+  {
+    "City": "hiram",
+    "Postal Code": "30141",
+    "State": "ga"
+  },
+  {
+    "City": "hogansville",
+    "Postal Code": "30230",
+    "State": "ga"
+  },
+  {
+    "City": "homerville",
+    "Postal Code": "31634",
+    "State": "ga"
+  },
+  {
+    "City": "kennesaw",
+    "Postal Code": "30144",
+    "State": "ga"
+  },
+  {
+    "City": "kingsland",
+    "Postal Code": "31548",
+    "State": "ga"
+  },
+  {
+    "City": "lagrange",
+    "Postal Code": "46761",
+    "State": "in"
+  },
+  {
+    "City": "lavonia",
+    "Postal Code": "30553",
+    "State": "ga"
+  },
+  {
+    "City": "leary",
+    "Postal Code": "31762",
+    "State": "ga"
+  },
+  {
+    "City": "lilburn",
+    "Postal Code": "30047",
+    "State": "ga"
+  },
+  {
+    "City": "loganville",
+    "Postal Code": "30052",
+    "State": "ga"
+  },
+  {
+    "City": "mcdonough",
+    "Postal Code": "30252",
+    "State": "ga"
+  },
+  {
+    "City": "milledgeville",
+    "Postal Code": "61051",
+    "State": "il"
+  },
+  {
+    "City": "millen",
+    "Postal Code": "30442",
+    "State": "ga"
+  },
+  {
+    "City": "morrow",
+    "Postal Code": "30260",
+    "State": "ga"
+  },
+  {
+    "City": "moultrie",
+    "Postal Code": "31768",
+    "State": "ga"
+  },
+  {
+    "City": "newnan",
+    "Postal Code": "30254",
+    "State": "ga"
+  },
+  {
+    "City": "norcross",
+    "Postal Code": "30003",
+    "State": "ga"
+  },
+  {
+    "City": "oakwood",
+    "Postal Code": "61858",
+    "State": "il"
+  },
+  {
+    "City": "ocilla",
+    "Postal Code": "31774",
+    "State": "ga"
+  },
+  {
+    "City": "oglethorpe",
+    "Postal Code": "30742",
+    "State": "ga"
+  },
+  {
+    "City": "omega",
+    "Postal Code": "31775",
+    "State": "ga"
+  },
+  {
+    "City": "peachtree city",
+    "Postal Code": "30269",
+    "State": "ga"
+  },
+  {
+    "City": "pendergrass",
+    "Postal Code": "30567",
+    "State": "ga"
+  },
+  {
+    "City": "pine mountain",
+    "Postal Code": "31822",
+    "State": "ga"
+  },
+  {
+    "City": "richmond hill",
+    "Postal Code": "31324",
+    "State": "ga"
+  },
+  {
+    "City": "rincon",
+    "Postal Code": "31326",
+    "State": "ga"
+  },
+  {
+    "City": "ringgold",
+    "Postal Code": "30736",
+    "State": "ga"
+  },
+  {
+    "City": "rockmart",
+    "Postal Code": "30153",
+    "State": "ga"
+  },
+  {
+    "City": "sandersville",
+    "Postal Code": "31082",
+    "State": "ga"
+  },
+  {
+    "City": "senoia",
+    "Postal Code": "30276",
+    "State": "ga"
+  },
+  {
+    "City": "snellville",
+    "Postal Code": "30039",
+    "State": "ga"
+  },
+  {
+    "City": "statesboro",
+    "Postal Code": "30458",
+    "State": "ga"
+  },
+  {
+    "City": "stone mountain",
+    "Postal Code": "30083",
+    "State": "ga"
+  },
+  {
+    "City": "sylvester",
+    "Postal Code": "31791",
+    "State": "ga"
+  },
+  {
+    "City": "toccoa",
+    "Postal Code": "30577",
+    "State": "ga"
+  },
+  {
+    "City": "tybee island",
+    "Postal Code": "31328",
+    "State": "ga"
+  },
+  {
+    "City": "villa rica",
+    "Postal Code": "30180",
+    "State": "ga"
+  },
+  {
+    "City": "warner robins",
+    "Postal Code": "31088",
+    "State": "ga"
+  },
+  {
+    "City": "waycross",
+    "Postal Code": "31501",
+    "State": "ga"
+  },
+  {
+    "City": "winder",
+    "Postal Code": "30680",
+    "State": "ga"
+  },
+  {
+    "City": "honolulu",
+    "Postal Code": "96801",
+    "State": "hi"
+  },
+  {
+    "City": "american falls",
+    "Postal Code": "83211",
+    "State": "id"
+  },
+  {
+    "City": "blackfoot",
+    "Postal Code": "83221",
+    "State": "id"
+  },
+  {
+    "City": "boise",
+    "Postal Code": "83701",
+    "State": "id"
+  },
+  {
+    "City": "bonners ferry",
+    "Postal Code": "83805",
+    "State": "id"
+  },
+  {
+    "City": "buhl",
+    "Postal Code": "83316",
+    "State": "id"
+  },
+  {
+    "City": "challis",
+    "Postal Code": "83226",
+    "State": "id"
+  },
+  {
+    "City": "emmett",
+    "Postal Code": "83617",
+    "State": "id"
+  },
+  {
+    "City": "filer",
+    "Postal Code": "83328",
+    "State": "id"
+  },
+  {
+    "City": "gooding",
+    "Postal Code": "83330",
+    "State": "id"
+  },
+  {
+    "City": "hagerman",
+    "Postal Code": "83332",
+    "State": "id"
+  },
+  {
+    "City": "heyburn",
+    "Postal Code": "83336",
+    "State": "id"
+  },
+  {
+    "City": "homedale",
+    "Postal Code": "83628",
+    "State": "id"
+  },
+  {
+    "City": "idaho falls",
+    "Postal Code": "83401",
+    "State": "id"
+  },
+  {
+    "City": "kellogg",
+    "Postal Code": "83837",
+    "State": "id"
+  },
+  {
+    "City": "ketchum",
+    "Postal Code": "83340",
+    "State": "id"
+  },
+  {
+    "City": "mccall",
+    "Postal Code": "83638",
+    "State": "id"
+  },
+  {
+    "City": "moscow",
+    "Postal Code": "83843",
+    "State": "id"
+  },
+  {
+    "City": "nampa",
+    "Postal Code": "83651",
+    "State": "id"
+  },
+  {
+    "City": "osburn",
+    "Postal Code": "83849",
+    "State": "id"
+  },
+  {
+    "City": "payette",
+    "Postal Code": "83661",
+    "State": "id"
+  },
+  {
+    "City": "pocatello",
+    "Postal Code": "83201",
+    "State": "id"
+  },
+  {
+    "City": "post falls",
+    "Postal Code": "83854",
+    "State": "id"
+  },
+  {
+    "City": "priest river",
+    "Postal Code": "83856",
+    "State": "id"
+  },
+  {
+    "City": "rathdrum",
+    "Postal Code": "83858",
+    "State": "id"
+  },
+  {
+    "City": "rexburg",
+    "Postal Code": "83440",
+    "State": "id"
+  },
+  {
+    "City": "rigby",
+    "Postal Code": "83442",
+    "State": "id"
+  },
+  {
+    "City": "rupert",
+    "Postal Code": "83350",
+    "State": "id"
+  },
+  {
+    "City": "salmon",
+    "Postal Code": "83467",
+    "State": "id"
+  },
+  {
+    "City": "sandpoint",
+    "Postal Code": "83864",
+    "State": "id"
+  },
+  {
+    "City": "shelley",
+    "Postal Code": "83274",
+    "State": "id"
+  },
+  {
+    "City": "spirit lake",
+    "Postal Code": "51360",
+    "State": "ia"
+  },
+  {
+    "City": "sun valley",
+    "Postal Code": "83353",
+    "State": "id"
+  },
+  {
+    "City": "twin falls",
+    "Postal Code": "83301",
+    "State": "id"
+  },
+  {
+    "City": "weiser",
+    "Postal Code": "83672",
+    "State": "id"
+  },
+  {
+    "City": "albers",
+    "Postal Code": "62215",
+    "State": "il"
+  },
+  {
+    "City": "aledo",
+    "Postal Code": "61011",
+    "State": "il"
+  },
+  {
+    "City": "algonquin",
+    "Postal Code": "60102",
+    "State": "il"
+  },
+  {
+    "City": "alsip",
+    "Postal Code": "60803",
+    "State": "il"
+  },
+  {
+    "City": "altamont",
+    "Postal Code": "62411",
+    "State": "il"
+  },
+  {
+    "City": "amboy",
+    "Postal Code": "61310",
+    "State": "il"
+  },
+  {
+    "City": "annawan",
+    "Postal Code": "61234",
+    "State": "il"
+  },
+  {
+    "City": "arlington heights",
+    "Postal Code": "60004",
+    "State": "il"
+  },
+  {
+    "City": "arthur",
+    "Postal Code": "61911",
+    "State": "il"
+  },
+  {
+    "City": "assumption",
+    "Postal Code": "62510",
+    "State": "il"
+  },
+  {
+    "City": "atwood",
+    "Postal Code": "61913",
+    "State": "il"
+  },
+  {
+    "City": "barrington",
+    "Postal Code": "02806",
+    "State": "ri"
+  },
+  {
+    "City": "beckemeyer",
+    "Postal Code": "62219",
+    "State": "il"
+  },
+  {
+    "City": "bedford park",
+    "Postal Code": "60499",
+    "State": "il"
+  },
+  {
+    "City": "beecher",
+    "Postal Code": "60401",
+    "State": "il"
+  },
+  {
+    "City": "bellwood",
+    "Postal Code": "60104",
+    "State": "il"
+  },
+  {
+    "City": "bement",
+    "Postal Code": "61813",
+    "State": "il"
+  },
+  {
+    "City": "bensenville",
+    "Postal Code": "60105",
+    "State": "il"
+  },
+  {
+    "City": "berwyn",
+    "Postal Code": "60402",
+    "State": "il"
+  },
+  {
+    "City": "bethalto",
+    "Postal Code": "62010",
+    "State": "il"
+  },
+  {
+    "City": "blue island",
+    "Postal Code": "60406",
+    "State": "il"
+  },
+  {
+    "City": "bluffs",
+    "Postal Code": "62621",
+    "State": "il"
+  },
+  {
+    "City": "bolingbrook",
+    "Postal Code": "60440",
+    "State": "il"
+  },
+  {
+    "City": "bourbonnais",
+    "Postal Code": "60914",
+    "State": "il"
+  },
+  {
+    "City": "bradley",
+    "Postal Code": "60915",
+    "State": "il"
+  },
+  {
+    "City": "braidwood",
+    "Postal Code": "60408",
+    "State": "il"
+  },
+  {
+    "City": "breese",
+    "Postal Code": "62230",
+    "State": "il"
+  },
+  {
+    "City": "buffalo grove",
+    "Postal Code": "60089",
+    "State": "il"
+  },
+  {
+    "City": "carlinville",
+    "Postal Code": "62626",
+    "State": "il"
+  },
+  {
+    "City": "carlyle",
+    "Postal Code": "62231",
+    "State": "il"
+  },
+  {
+    "City": "carol stream",
+    "Postal Code": "60116",
+    "State": "il"
+  },
+  {
+    "City": "carrier mills",
+    "Postal Code": "62917",
+    "State": "il"
+  },
+  {
+    "City": "casey",
+    "Postal Code": "62232",
+    "State": "il"
+  },
+  {
+    "City": "caseyville",
+    "Postal Code": "62232",
+    "State": "il"
+  },
+  {
+    "City": "catlin",
+    "Postal Code": "61817",
+    "State": "il"
+  },
+  {
+    "City": "champaign",
+    "Postal Code": "61820",
+    "State": "il"
+  },
+  {
+    "City": "channahon",
+    "Postal Code": "60410",
+    "State": "il"
+  },
+  {
+    "City": "chenoa",
+    "Postal Code": "61726",
+    "State": "il"
+  },
+  {
+    "City": "cherry",
+    "Postal Code": "61016",
+    "State": "il"
+  },
+  {
+    "City": "chicago",
+    "Postal Code": "60064",
+    "State": "il"
+  },
+  {
+    "City": "chicago heights",
+    "Postal Code": "60411",
+    "State": "il"
+  },
+  {
+    "City": "chicago ridge",
+    "Postal Code": "60415",
+    "State": "il"
+  },
+  {
+    "City": "christopher",
+    "Postal Code": "62822",
+    "State": "il"
+  },
+  {
+    "City": "cicero",
+    "Postal Code": "46034",
+    "State": "in"
+  },
+  {
+    "City": "clarendon hills",
+    "Postal Code": "60514",
+    "State": "il"
+  },
+  {
+    "City": "coal city",
+    "Postal Code": "60416",
+    "State": "il"
+  },
+  {
+    "City": "coal valley",
+    "Postal Code": "61240",
+    "State": "il"
+  },
+  {
+    "City": "colfax",
+    "Postal Code": "50054",
+    "State": "ia"
+  },
+  {
+    "City": "colona",
+    "Postal Code": "61241",
+    "State": "il"
+  },
+  {
+    "City": "coulterville",
+    "Postal Code": "62237",
+    "State": "il"
+  },
+  {
+    "City": "country club hills",
+    "Postal Code": "60478",
+    "State": "il"
+  },
+  {
+    "City": "cowden",
+    "Postal Code": "62422",
+    "State": "il"
+  },
+  {
+    "City": "crest hill",
+    "Postal Code": "60403",
+    "State": "il"
+  },
+  {
+    "City": "crystal lake",
+    "Postal Code": "60012",
+    "State": "il"
+  },
+  {
+    "City": "dekalb",
+    "Postal Code": "60115",
+    "State": "il"
+  },
+  {
+    "City": "des plaines",
+    "Postal Code": "60016",
+    "State": "il"
+  },
+  {
+    "City": "downers grove",
+    "Postal Code": "60515",
+    "State": "il"
+  },
+  {
+    "City": "dupo",
+    "Postal Code": "62239",
+    "State": "il"
+  },
+  {
+    "City": "du quoin",
+    "Postal Code": "62832",
+    "State": "il"
+  },
+  {
+    "City": "dwight",
+    "Postal Code": "60420",
+    "State": "il"
+  },
+  {
+    "City": "east alton",
+    "Postal Code": "62024",
+    "State": "il"
+  },
+  {
+    "City": "east moline",
+    "Postal Code": "61244",
+    "State": "il"
+  },
+  {
+    "City": "east peoria",
+    "Postal Code": "61611",
+    "State": "il"
+  },
+  {
+    "City": "edwardsville",
+    "Postal Code": "66113",
+    "State": "ks"
+  },
+  {
+    "City": "effingham",
+    "Postal Code": "62401",
+    "State": "il"
+  },
+  {
+    "City": "elburn",
+    "Postal Code": "60119",
+    "State": "il"
+  },
+  {
+    "City": "elk grove village",
+    "Postal Code": "60007",
+    "State": "il"
+  },
+  {
+    "City": "ellis grove",
+    "Postal Code": "62241",
+    "State": "il"
+  },
+  {
+    "City": "elmhurst",
+    "Postal Code": "60126",
+    "State": "il"
+  },
+  {
+    "City": "elwood",
+    "Postal Code": "66024",
+    "State": "ks"
+  },
+  {
+    "City": "evergreen park",
+    "Postal Code": "60805",
+    "State": "il"
+  },
+  {
+    "City": "fairmount",
+    "Postal Code": "46928",
+    "State": "in"
+  },
+  {
+    "City": "fairview heights",
+    "Postal Code": "62208",
+    "State": "il"
+  },
+  {
+    "City": "farmer city",
+    "Postal Code": "61842",
+    "State": "il"
+  },
+  {
+    "City": "fithian",
+    "Postal Code": "61844",
+    "State": "il"
+  },
+  {
+    "City": "flora",
+    "Postal Code": "62839",
+    "State": "il"
+  },
+  {
+    "City": "flossmoor",
+    "Postal Code": "60422",
+    "State": "il"
+  },
+  {
+    "City": "forreston",
+    "Postal Code": "61030",
+    "State": "il"
+  },
+  {
+    "City": "fox lake",
+    "Postal Code": "60020",
+    "State": "il"
+  },
+  {
+    "City": "fox river grove",
+    "Postal Code": "60021",
+    "State": "il"
+  },
+  {
+    "City": "freeburg",
+    "Postal Code": "62243",
+    "State": "il"
+  },
+  {
+    "City": "geneseo",
+    "Postal Code": "61254",
+    "State": "il"
+  },
+  {
+    "City": "gilberts",
+    "Postal Code": "60136",
+    "State": "il"
+  },
+  {
+    "City": "glen carbon",
+    "Postal Code": "62034",
+    "State": "il"
+  },
+  {
+    "City": "glendale heights",
+    "Postal Code": "60139",
+    "State": "il"
+  },
+  {
+    "City": "glen ellyn",
+    "Postal Code": "60137",
+    "State": "il"
+  },
+  {
+    "City": "glenview",
+    "Postal Code": "60025",
+    "State": "il"
+  },
+  {
+    "City": "golf",
+    "Postal Code": "60029",
+    "State": "il"
+  },
+  {
+    "City": "grand ridge",
+    "Postal Code": "61325",
+    "State": "il"
+  },
+  {
+    "City": "granite city",
+    "Postal Code": "62040",
+    "State": "il"
+  },
+  {
+    "City": "grayslake",
+    "Postal Code": "60030",
+    "State": "il"
+  },
+  {
+    "City": "grayville",
+    "Postal Code": "62844",
+    "State": "il"
+  },
+  {
+    "City": "gurnee",
+    "Postal Code": "60031",
+    "State": "il"
+  },
+  {
+    "City": "hampshire",
+    "Postal Code": "60140",
+    "State": "il"
+  },
+  {
+    "City": "hanover park",
+    "Postal Code": "60133",
+    "State": "il"
+  },
+  {
+    "City": "harvey",
+    "Postal Code": "60426",
+    "State": "il"
+  },
+  {
+    "City": "havana",
+    "Postal Code": "62644",
+    "State": "il"
+  },
+  {
+    "City": "hazel crest",
+    "Postal Code": "60429",
+    "State": "il"
+  },
+  {
+    "City": "henry",
+    "Postal Code": "60050",
+    "State": "il"
+  },
+  {
+    "City": "herrin",
+    "Postal Code": "62948",
+    "State": "il"
+  },
+  {
+    "City": "heyworth",
+    "Postal Code": "61745",
+    "State": "il"
+  },
+  {
+    "City": "hickory hills",
+    "Postal Code": "60457",
+    "State": "il"
+  },
+  {
+    "City": "hillside",
+    "Postal Code": "60162",
+    "State": "il"
+  },
+  {
+    "City": "hinckley",
+    "Postal Code": "60520",
+    "State": "il"
+  },
+  {
+    "City": "hinsdale",
+    "Postal Code": "60521",
+    "State": "il"
+  },
+  {
+    "City": "hoffman estates",
+    "Postal Code": "60169",
+    "State": "il"
+  },
+  {
+    "City": "homer glen",
+    "Postal Code": "60491",
+    "State": "il"
+  },
+  {
+    "City": "hometown",
+    "Postal Code": "60456",
+    "State": "il"
+  },
+  {
+    "City": "hoopeston",
+    "Postal Code": "60942",
+    "State": "il"
+  },
+  {
+    "City": "huntley",
+    "Postal Code": "60142",
+    "State": "il"
+  },
+  {
+    "City": "ina",
+    "Postal Code": "60157",
+    "State": "il"
+  },
+  {
+    "City": "indianola",
+    "Postal Code": "50125",
+    "State": "ia"
+  },
+  {
+    "City": "island lake",
+    "Postal Code": "60042",
+    "State": "il"
+  },
+  {
+    "City": "jerseyville",
+    "Postal Code": "62052",
+    "State": "il"
+  },
+  {
+    "City": "joliet",
+    "Postal Code": "60431",
+    "State": "il"
+  },
+  {
+    "City": "kincaid",
+    "Postal Code": "62540",
+    "State": "il"
+  },
+  {
+    "City": "lacon",
+    "Postal Code": "61540",
+    "State": "il"
+  },
+  {
+    "City": "la grange park",
+    "Postal Code": "60526",
+    "State": "il"
+  },
+  {
+    "City": "lake in the hills",
+    "Postal Code": "60156",
+    "State": "il"
+  },
+  {
+    "City": "lake villa",
+    "Postal Code": "60046",
+    "State": "il"
+  },
+  {
+    "City": "lake zurich",
+    "Postal Code": "60047",
+    "State": "il"
+  },
+  {
+    "City": "lanark",
+    "Postal Code": "61046",
+    "State": "il"
+  },
+  {
+    "City": "lemont",
+    "Postal Code": "60439",
+    "State": "il"
+  },
+  {
+    "City": "le roy",
+    "Postal Code": "61752",
+    "State": "il"
+  },
+  {
+    "City": "libertyville",
+    "Postal Code": "60048",
+    "State": "il"
+  },
+  {
+    "City": "lincolnshire",
+    "Postal Code": "60069",
+    "State": "il"
+  },
+  {
+    "City": "lisle",
+    "Postal Code": "60532",
+    "State": "il"
+  },
+  {
+    "City": "lockport",
+    "Postal Code": "60441",
+    "State": "il"
+  },
+  {
+    "City": "lombard",
+    "Postal Code": "60148",
+    "State": "il"
+  },
+  {
+    "City": "loves park",
+    "Postal Code": "61111",
+    "State": "il"
+  },
+  {
+    "City": "lovington",
+    "Postal Code": "61937",
+    "State": "il"
+  },
+  {
+    "City": "machesney park",
+    "Postal Code": "61115",
+    "State": "il"
+  },
+  {
+    "City": "mackinaw",
+    "Postal Code": "61755",
+    "State": "il"
+  },
+  {
+    "City": "macomb",
+    "Postal Code": "61455",
+    "State": "il"
+  },
+  {
+    "City": "mahomet",
+    "Postal Code": "61853",
+    "State": "il"
+  },
+  {
+    "City": "manito",
+    "Postal Code": "61546",
+    "State": "il"
+  },
+  {
+    "City": "manteno",
+    "Postal Code": "60950",
+    "State": "il"
+  },
+  {
+    "City": "maple park",
+    "Postal Code": "60151",
+    "State": "il"
+  },
+  {
+    "City": "marengo",
+    "Postal Code": "52301",
+    "State": "ia"
+  },
+  {
+    "City": "marseilles",
+    "Postal Code": "61341",
+    "State": "il"
+  },
+  {
+    "City": "mascoutah",
+    "Postal Code": "62224",
+    "State": "il"
+  },
+  {
+    "City": "mason city",
+    "Postal Code": "50401",
+    "State": "ia"
+  },
+  {
+    "City": "mattoon",
+    "Postal Code": "61938",
+    "State": "il"
+  },
+  {
+    "City": "mazon",
+    "Postal Code": "60444",
+    "State": "il"
+  },
+  {
+    "City": "mchenry",
+    "Postal Code": "60050",
+    "State": "il"
+  },
+  {
+    "City": "melrose park",
+    "Postal Code": "60160",
+    "State": "il"
+  },
+  {
+    "City": "metropolis",
+    "Postal Code": "62960",
+    "State": "il"
+  },
+  {
+    "City": "millstadt",
+    "Postal Code": "62260",
+    "State": "il"
+  },
+  {
+    "City": "minier",
+    "Postal Code": "61759",
+    "State": "il"
+  },
+  {
+    "City": "mokena",
+    "Postal Code": "60448",
+    "State": "il"
+  },
+  {
+    "City": "moline",
+    "Postal Code": "61244",
+    "State": "il"
+  },
+  {
+    "City": "monee",
+    "Postal Code": "60449",
+    "State": "il"
+  },
+  {
+    "City": "morrison",
+    "Postal Code": "61270",
+    "State": "il"
+  },
+  {
+    "City": "morton grove",
+    "Postal Code": "60053",
+    "State": "il"
+  },
+  {
+    "City": "mount carroll",
+    "Postal Code": "61053",
+    "State": "il"
+  },
+  {
+    "City": "mount prospect",
+    "Postal Code": "60056",
+    "State": "il"
+  },
+  {
+    "City": "mount pulaski",
+    "Postal Code": "62548",
+    "State": "il"
+  },
+  {
+    "City": "mundelein",
+    "Postal Code": "60060",
+    "State": "il"
+  },
+  {
+    "City": "murphysboro",
+    "Postal Code": "62966",
+    "State": "il"
+  },
+  {
+    "City": "naperville",
+    "Postal Code": "60540",
+    "State": "il"
+  },
+  {
+    "City": "neoga",
+    "Postal Code": "62447",
+    "State": "il"
+  },
+  {
+    "City": "new athens",
+    "Postal Code": "62264",
+    "State": "il"
+  },
+  {
+    "City": "new baden",
+    "Postal Code": "62265",
+    "State": "il"
+  },
+  {
+    "City": "new lenox",
+    "Postal Code": "60451",
+    "State": "il"
+  },
+  {
+    "City": "nokomis",
+    "Postal Code": "62075",
+    "State": "il"
+  },
+  {
+    "City": "normal",
+    "Postal Code": "61761",
+    "State": "il"
+  },
+  {
+    "City": "norris city",
+    "Postal Code": "62869",
+    "State": "il"
+  },
+  {
+    "City": "northbrook",
+    "Postal Code": "60062",
+    "State": "il"
+  },
+  {
+    "City": "north chicago",
+    "Postal Code": "60064",
+    "State": "il"
+  },
+  {
+    "City": "oak brook",
+    "Postal Code": "60523",
+    "State": "il"
+  },
+  {
+    "City": "oak forest",
+    "Postal Code": "60452",
+    "State": "il"
+  },
+  {
+    "City": "oak lawn",
+    "Postal Code": "60453",
+    "State": "il"
+  },
+  {
+    "City": "okawville",
+    "Postal Code": "62271",
+    "State": "il"
+  },
+  {
+    "City": "olympia fields",
+    "Postal Code": "60461",
+    "State": "il"
+  },
+  {
+    "City": "onarga",
+    "Postal Code": "60955",
+    "State": "il"
+  },
+  {
+    "City": "orion",
+    "Postal Code": "61273",
+    "State": "il"
+  },
+  {
+    "City": "orland park",
+    "Postal Code": "60462",
+    "State": "il"
+  },
+  {
+    "City": "oswego",
+    "Postal Code": "67356",
+    "State": "ks"
+  },
+  {
+    "City": "palatine",
+    "Postal Code": "60038",
+    "State": "il"
+  },
+  {
+    "City": "palos heights",
+    "Postal Code": "60463",
+    "State": "il"
+  },
+  {
+    "City": "palos hills",
+    "Postal Code": "60465",
+    "State": "il"
+  },
+  {
+    "City": "palos park",
+    "Postal Code": "60464",
+    "State": "il"
+  },
+  {
+    "City": "pana",
+    "Postal Code": "62077",
+    "State": "il"
+  },
+  {
+    "City": "park forest",
+    "Postal Code": "60466",
+    "State": "il"
+  },
+  {
+    "City": "pecatonica",
+    "Postal Code": "61063",
+    "State": "il"
+  },
+  {
+    "City": "pekin",
+    "Postal Code": "61554",
+    "State": "il"
+  },
+  {
+    "City": "peotone",
+    "Postal Code": "60468",
+    "State": "il"
+  },
+  {
+    "City": "peru",
+    "Postal Code": "61354",
+    "State": "il"
+  },
+  {
+    "City": "pinckneyville",
+    "Postal Code": "62274",
+    "State": "il"
+  },
+  {
+    "City": "pleasant plains",
+    "Postal Code": "62677",
+    "State": "il"
+  },
+  {
+    "City": "polo",
+    "Postal Code": "61064",
+    "State": "il"
+  },
+  {
+    "City": "posen",
+    "Postal Code": "60469",
+    "State": "il"
+  },
+  {
+    "City": "potomac",
+    "Postal Code": "61865",
+    "State": "il"
+  },
+  {
+    "City": "prophetstown",
+    "Postal Code": "61277",
+    "State": "il"
+  },
+  {
+    "City": "prospect heights",
+    "Postal Code": "60070",
+    "State": "il"
+  },
+  {
+    "City": "rantoul",
+    "Postal Code": "61866",
+    "State": "il"
+  },
+  {
+    "City": "richton park",
+    "Postal Code": "60471",
+    "State": "il"
+  },
+  {
+    "City": "ridge farm",
+    "Postal Code": "61870",
+    "State": "il"
+  },
+  {
+    "City": "river forest",
+    "Postal Code": "60305",
+    "State": "il"
+  },
+  {
+    "City": "river grove",
+    "Postal Code": "60021",
+    "State": "il"
+  },
+  {
+    "City": "rockford",
+    "Postal Code": "61101",
+    "State": "il"
+  },
+  {
+    "City": "rock island",
+    "Postal Code": "61201",
+    "State": "il"
+  },
+  {
+    "City": "rockton",
+    "Postal Code": "61072",
+    "State": "il"
+  },
+  {
+    "City": "rolling meadows",
+    "Postal Code": "60008",
+    "State": "il"
+  },
+  {
+    "City": "romeoville",
+    "Postal Code": "60446",
+    "State": "il"
+  },
+  {
+    "City": "round lake",
+    "Postal Code": "60073",
+    "State": "il"
+  },
+  {
+    "City": "roxana",
+    "Postal Code": "62084",
+    "State": "il"
+  },
+  {
+    "City": "rushville",
+    "Postal Code": "62681",
+    "State": "il"
+  },
+  {
+    "City": "sandoval",
+    "Postal Code": "62882",
+    "State": "il"
+  },
+  {
+    "City": "schaumburg",
+    "Postal Code": "60159",
+    "State": "il"
+  },
+  {
+    "City": "sesser",
+    "Postal Code": "62884",
+    "State": "il"
+  },
+  {
+    "City": "sidell",
+    "Postal Code": "61876",
+    "State": "il"
+  },
+  {
+    "City": "silvis",
+    "Postal Code": "61282",
+    "State": "il"
+  },
+  {
+    "City": "skokie",
+    "Postal Code": "60076",
+    "State": "il"
+  },
+  {
+    "City": "somonauk",
+    "Postal Code": "60552",
+    "State": "il"
+  },
+  {
+    "City": "south beloit",
+    "Postal Code": "61080",
+    "State": "il"
+  },
+  {
+    "City": "south elgin",
+    "Postal Code": "60177",
+    "State": "il"
+  },
+  {
+    "City": "south holland",
+    "Postal Code": "60473",
+    "State": "il"
+  },
+  {
+    "City": "south roxana",
+    "Postal Code": "62087",
+    "State": "il"
+  },
+  {
+    "City": "spring grove",
+    "Postal Code": "60081",
+    "State": "il"
+  },
+  {
+    "City": "steger",
+    "Postal Code": "60475",
+    "State": "il"
+  },
+  {
+    "City": "stone park",
+    "Postal Code": "60165",
+    "State": "il"
+  },
+  {
+    "City": "streamwood",
+    "Postal Code": "60107",
+    "State": "il"
+  },
+  {
+    "City": "streator",
+    "Postal Code": "61364",
+    "State": "il"
+  },
+  {
+    "City": "sugar grove",
+    "Postal Code": "60554",
+    "State": "il"
+  },
+  {
+    "City": "sycamore",
+    "Postal Code": "60178",
+    "State": "il"
+  },
+  {
+    "City": "taylorville",
+    "Postal Code": "62568",
+    "State": "il"
+  },
+  {
+    "City": "tinley park",
+    "Postal Code": "60477",
+    "State": "il"
+  },
+  {
+    "City": "tolono",
+    "Postal Code": "61880",
+    "State": "il"
+  },
+  {
+    "City": "toluca",
+    "Postal Code": "61369",
+    "State": "il"
+  },
+  {
+    "City": "toulon",
+    "Postal Code": "61483",
+    "State": "il"
+  },
+  {
+    "City": "tremont",
+    "Postal Code": "61568",
+    "State": "il"
+  },
+  {
+    "City": "tuscola",
+    "Postal Code": "61953",
+    "State": "il"
+  },
+  {
+    "City": "valmeyer",
+    "Postal Code": "62295",
+    "State": "il"
+  },
+  {
+    "City": "vandalia",
+    "Postal Code": "62471",
+    "State": "il"
+  },
+  {
+    "City": "vernon hills",
+    "Postal Code": "60061",
+    "State": "il"
+  },
+  {
+    "City": "virden",
+    "Postal Code": "62690",
+    "State": "il"
+  },
+  {
+    "City": "warrenville",
+    "Postal Code": "60555",
+    "State": "il"
+  },
+  {
+    "City": "watseka",
+    "Postal Code": "60970",
+    "State": "il"
+  },
+  {
+    "City": "wauconda",
+    "Postal Code": "60084",
+    "State": "il"
+  },
+  {
+    "City": "waukegan",
+    "Postal Code": "60079",
+    "State": "il"
+  },
+  {
+    "City": "westchester",
+    "Postal Code": "60154",
+    "State": "il"
+  },
+  {
+    "City": "west chicago",
+    "Postal Code": "60185",
+    "State": "il"
+  },
+  {
+    "City": "western springs",
+    "Postal Code": "60558",
+    "State": "il"
+  },
+  {
+    "City": "westmont",
+    "Postal Code": "60559",
+    "State": "il"
+  },
+  {
+    "City": "wheaton",
+    "Postal Code": "60187",
+    "State": "il"
+  },
+  {
+    "City": "williamsville",
+    "Postal Code": "62693",
+    "State": "il"
+  },
+  {
+    "City": "willowbrook",
+    "Postal Code": "60527",
+    "State": "il"
+  },
+  {
+    "City": "wilmette",
+    "Postal Code": "60091",
+    "State": "il"
+  },
+  {
+    "City": "winnetka",
+    "Postal Code": "60093",
+    "State": "il"
+  },
+  {
+    "City": "wonder lake",
+    "Postal Code": "60097",
+    "State": "il"
+  },
+  {
+    "City": "wood dale",
+    "Postal Code": "60191",
+    "State": "il"
+  },
+  {
+    "City": "woodridge",
+    "Postal Code": "60517",
+    "State": "il"
+  },
+  {
+    "City": "wood river",
+    "Postal Code": "62095",
+    "State": "il"
+  },
+  {
+    "City": "worden",
+    "Postal Code": "62097",
+    "State": "il"
+  },
+  {
+    "City": "worth",
+    "Postal Code": "60043",
+    "State": "il"
+  },
+  {
+    "City": "yorkville",
+    "Postal Code": "60560",
+    "State": "il"
+  },
+  {
+    "City": "zion",
+    "Postal Code": "60099",
+    "State": "il"
+  },
+  {
+    "City": "angola",
+    "Postal Code": "46703",
+    "State": "in"
+  },
+  {
+    "City": "bargersville",
+    "Postal Code": "46106",
+    "State": "in"
+  },
+  {
+    "City": "beech grove",
+    "Postal Code": "46107",
+    "State": "in"
+  },
+  {
+    "City": "brownsburg",
+    "Postal Code": "46112",
+    "State": "in"
+  },
+  {
+    "City": "cedar lake",
+    "Postal Code": "46303",
+    "State": "in"
+  },
+  {
+    "City": "chesterton",
+    "Postal Code": "46304",
+    "State": "in"
+  },
+  {
+    "City": "crawfordsville",
+    "Postal Code": "47933",
+    "State": "in"
+  },
+  {
+    "City": "crown point",
+    "Postal Code": "46307",
+    "State": "in"
+  },
+  {
+    "City": "dyer",
+    "Postal Code": "46311",
+    "State": "in"
+  },
+  {
+    "City": "east chicago",
+    "Postal Code": "46312",
+    "State": "in"
+  },
+  {
+    "City": "edinburgh",
+    "Postal Code": "46124",
+    "State": "in"
+  },
+  {
+    "City": "elkhart",
+    "Postal Code": "46514",
+    "State": "in"
+  },
+  {
+    "City": "fishers",
+    "Postal Code": "46037",
+    "State": "in"
+  },
+  {
+    "City": "fort wayne",
+    "Postal Code": "46801",
+    "State": "in"
+  },
+  {
+    "City": "gary",
+    "Postal Code": "46401",
+    "State": "in"
+  },
+  {
+    "City": "gas city",
+    "Postal Code": "46933",
+    "State": "in"
+  },
+  {
+    "City": "griffith",
+    "Postal Code": "46319",
+    "State": "in"
+  },
+  {
+    "City": "huntingburg",
+    "Postal Code": "47542",
+    "State": "in"
+  },
+  {
+    "City": "indianapolis",
+    "Postal Code": "46201",
+    "State": "in"
+  },
+  {
+    "City": "jeffersonville",
+    "Postal Code": "47130",
+    "State": "in"
+  },
+  {
+    "City": "kendallville",
+    "Postal Code": "46755",
+    "State": "in"
+  },
+  {
+    "City": "knightsville",
+    "Postal Code": "47857",
+    "State": "in"
+  },
+  {
+    "City": "knox",
+    "Postal Code": "46534",
+    "State": "in"
+  },
+  {
+    "City": "kokomo",
+    "Postal Code": "46901",
+    "State": "in"
+  },
+  {
+    "City": "linton",
+    "Postal Code": "47441",
+    "State": "in"
+  },
+  {
+    "City": "logansport",
+    "Postal Code": "46947",
+    "State": "in"
+  },
+  {
+    "City": "michigan city",
+    "Postal Code": "46360",
+    "State": "in"
+  },
+  {
+    "City": "mishawaka",
+    "Postal Code": "46544",
+    "State": "in"
+  },
+  {
+    "City": "muncie",
+    "Postal Code": "47302",
+    "State": "in"
+  },
+  {
+    "City": "munster",
+    "Postal Code": "46321",
+    "State": "in"
+  },
+  {
+    "City": "nappanee",
+    "Postal Code": "46550",
+    "State": "in"
+  },
+  {
+    "City": "new palestine",
+    "Postal Code": "46163",
+    "State": "in"
+  },
+  {
+    "City": "noblesville",
+    "Postal Code": "46060",
+    "State": "in"
+  },
+  {
+    "City": "north vernon",
+    "Postal Code": "47265",
+    "State": "in"
+  },
+  {
+    "City": "north webster",
+    "Postal Code": "46555",
+    "State": "in"
+  },
+  {
+    "City": "schererville",
+    "Postal Code": "46375",
+    "State": "in"
+  },
+  {
+    "City": "shipshewana",
+    "Postal Code": "46565",
+    "State": "in"
+  },
+  {
+    "City": "tell city",
+    "Postal Code": "47586",
+    "State": "in"
+  },
+  {
+    "City": "terre haute",
+    "Postal Code": "47801",
+    "State": "in"
+  },
+  {
+    "City": "topeka",
+    "Postal Code": "66601",
+    "State": "ks"
+  },
+  {
+    "City": "valparaiso",
+    "Postal Code": "46383",
+    "State": "in"
+  },
+  {
+    "City": "vincennes",
+    "Postal Code": "47591",
+    "State": "in"
+  },
+  {
+    "City": "west lafayette",
+    "Postal Code": "47906",
+    "State": "in"
+  },
+  {
+    "City": "whiteland",
+    "Postal Code": "46184",
+    "State": "in"
+  },
+  {
+    "City": "whitestown",
+    "Postal Code": "46075",
+    "State": "in"
+  },
+  {
+    "City": "whiting",
+    "Postal Code": "46394",
+    "State": "in"
+  },
+  {
+    "City": "yorktown",
+    "Postal Code": "47396",
+    "State": "in"
+  },
+  {
+    "City": "zionsville",
+    "Postal Code": "46077",
+    "State": "in"
+  },
+  {
+    "City": "adel",
+    "Postal Code": "50003",
+    "State": "ia"
+  },
+  {
+    "City": "albia",
+    "Postal Code": "52531",
+    "State": "ia"
+  },
+  {
+    "City": "ames",
+    "Postal Code": "50010",
+    "State": "ia"
+  },
+  {
+    "City": "anamosa",
+    "Postal Code": "52205",
+    "State": "ia"
+  },
+  {
+    "City": "ankeny",
+    "Postal Code": "50015",
+    "State": "ia"
+  },
+  {
+    "City": "atlantic",
+    "Postal Code": "50022",
+    "State": "ia"
+  },
+  {
+    "City": "bettendorf",
+    "Postal Code": "52722",
+    "State": "ia"
+  },
+  {
+    "City": "blue grass",
+    "Postal Code": "52726",
+    "State": "ia"
+  },
+  {
+    "City": "buffalo",
+    "Postal Code": "82834",
+    "State": "wy"
+  },
+  {
+    "City": "camanche",
+    "Postal Code": "52730",
+    "State": "ia"
+  },
+  {
+    "City": "carter lake",
+    "Postal Code": "51510",
+    "State": "ia"
+  },
+  {
+    "City": "cedar rapids",
+    "Postal Code": "52401",
+    "State": "ia"
+  },
+  {
+    "City": "charles city",
+    "Postal Code": "50616",
+    "State": "ia"
+  },
+  {
+    "City": "clarence",
+    "Postal Code": "52216",
+    "State": "ia"
+  },
+  {
+    "City": "clarinda",
+    "Postal Code": "51632",
+    "State": "ia"
+  },
+  {
+    "City": "clarion",
+    "Postal Code": "50525",
+    "State": "ia"
+  },
+  {
+    "City": "clear lake",
+    "Postal Code": "50428",
+    "State": "ia"
+  },
+  {
+    "City": "clive",
+    "Postal Code": "50325",
+    "State": "ia"
+  },
+  {
+    "City": "coralville",
+    "Postal Code": "52241",
+    "State": "ia"
+  },
+  {
+    "City": "council bluffs",
+    "Postal Code": "51501",
+    "State": "ia"
+  },
+  {
+    "City": "creston",
+    "Postal Code": "50801",
+    "State": "ia"
+  },
+  {
+    "City": "decorah",
+    "Postal Code": "52101",
+    "State": "ia"
+  },
+  {
+    "City": "dubuque",
+    "Postal Code": "52001",
+    "State": "ia"
+  },
+  {
+    "City": "dyersville",
+    "Postal Code": "52040",
+    "State": "ia"
+  },
+  {
+    "City": "dysart",
+    "Postal Code": "52224",
+    "State": "ia"
+  },
+  {
+    "City": "earlham",
+    "Postal Code": "50072",
+    "State": "ia"
+  },
+  {
+    "City": "eldora",
+    "Postal Code": "50627",
+    "State": "ia"
+  },
+  {
+    "City": "eldridge",
+    "Postal Code": "52748",
+    "State": "ia"
+  },
+  {
+    "City": "emmetsburg",
+    "Postal Code": "50536",
+    "State": "ia"
+  },
+  {
+    "City": "estherville",
+    "Postal Code": "51334",
+    "State": "ia"
+  },
+  {
+    "City": "evansdale",
+    "Postal Code": "50707",
+    "State": "ia"
+  },
+  {
+    "City": "fort dodge",
+    "Postal Code": "50501",
+    "State": "ia"
+  },
+  {
+    "City": "fort madison",
+    "Postal Code": "52627",
+    "State": "ia"
+  },
+  {
+    "City": "gowrie",
+    "Postal Code": "50543",
+    "State": "ia"
+  },
+  {
+    "City": "grinnell",
+    "Postal Code": "50112",
+    "State": "ia"
+  },
+  {
+    "City": "grundy center",
+    "Postal Code": "50638",
+    "State": "ia"
+  },
+  {
+    "City": "hiawatha",
+    "Postal Code": "66434",
+    "State": "ks"
+  },
+  {
+    "City": "huxley",
+    "Postal Code": "50124",
+    "State": "ia"
+  },
+  {
+    "City": "iowa city",
+    "Postal Code": "52240",
+    "State": "ia"
+  },
+  {
+    "City": "iowa falls",
+    "Postal Code": "50126",
+    "State": "ia"
+  },
+  {
+    "City": "keokuk",
+    "Postal Code": "52632",
+    "State": "ia"
+  },
+  {
+    "City": "le claire",
+    "Postal Code": "52753",
+    "State": "ia"
+  },
+  {
+    "City": "le mars",
+    "Postal Code": "51031",
+    "State": "ia"
+  },
+  {
+    "City": "maquoketa",
+    "Postal Code": "52060",
+    "State": "ia"
+  },
+  {
+    "City": "marshalltown",
+    "Postal Code": "50158",
+    "State": "ia"
+  },
+  {
+    "City": "mechanicsville",
+    "Postal Code": "52306",
+    "State": "ia"
+  },
+  {
+    "City": "missouri valley",
+    "Postal Code": "51555",
+    "State": "ia"
+  },
+  {
+    "City": "mitchellville",
+    "Postal Code": "50169",
+    "State": "ia"
+  },
+  {
+    "City": "muscatine",
+    "Postal Code": "52761",
+    "State": "ia"
+  },
+  {
+    "City": "new sharon",
+    "Postal Code": "50207",
+    "State": "ia"
+  },
+  {
+    "City": "north liberty",
+    "Postal Code": "52317",
+    "State": "ia"
+  },
+  {
+    "City": "oelwein",
+    "Postal Code": "50662",
+    "State": "ia"
+  },
+  {
+    "City": "osage",
+    "Postal Code": "50461",
+    "State": "ia"
+  },
+  {
+    "City": "oskaloosa",
+    "Postal Code": "52577",
+    "State": "ia"
+  },
+  {
+    "City": "ottumwa",
+    "Postal Code": "52501",
+    "State": "ia"
+  },
+  {
+    "City": "panora",
+    "Postal Code": "50216",
+    "State": "ia"
+  },
+  {
+    "City": "pella",
+    "Postal Code": "50219",
+    "State": "ia"
+  },
+  {
+    "City": "peosta",
+    "Postal Code": "52068",
+    "State": "ia"
+  },
+  {
+    "City": "polk city",
+    "Postal Code": "50226",
+    "State": "ia"
+  },
+  {
+    "City": "postville",
+    "Postal Code": "52162",
+    "State": "ia"
+  },
+  {
+    "City": "prairie city",
+    "Postal Code": "50228",
+    "State": "ia"
+  },
+  {
+    "City": "rock valley",
+    "Postal Code": "51247",
+    "State": "ia"
+  },
+  {
+    "City": "sabula",
+    "Postal Code": "52070",
+    "State": "ia"
+  },
+  {
+    "City": "sac city",
+    "Postal Code": "50583",
+    "State": "ia"
+  },
+  {
+    "City": "sheldon",
+    "Postal Code": "51201",
+    "State": "ia"
+  },
+  {
+    "City": "sigourney",
+    "Postal Code": "52591",
+    "State": "ia"
+  },
+  {
+    "City": "sioux center",
+    "Postal Code": "51250",
+    "State": "ia"
+  },
+  {
+    "City": "sioux city",
+    "Postal Code": "51101",
+    "State": "ia"
+  },
+  {
+    "City": "storm lake",
+    "Postal Code": "50588",
+    "State": "ia"
+  },
+  {
+    "City": "story city",
+    "Postal Code": "50248",
+    "State": "ia"
+  },
+  {
+    "City": "urbandale",
+    "Postal Code": "50322",
+    "State": "ia"
+  },
+  {
+    "City": "van meter",
+    "Postal Code": "50261",
+    "State": "ia"
+  },
+  {
+    "City": "walcott",
+    "Postal Code": "52773",
+    "State": "ia"
+  },
+  {
+    "City": "waukee",
+    "Postal Code": "50263",
+    "State": "ia"
+  },
+  {
+    "City": "waukon",
+    "Postal Code": "52172",
+    "State": "ia"
+  },
+  {
+    "City": "webster city",
+    "Postal Code": "50595",
+    "State": "ia"
+  },
+  {
+    "City": "west burlington",
+    "Postal Code": "52655",
+    "State": "ia"
+  },
+  {
+    "City": "west des moines",
+    "Postal Code": "50265",
+    "State": "ia"
+  },
+  {
+    "City": "windsor heights",
+    "Postal Code": "50324",
+    "State": "ia"
+  },
+  {
+    "City": "arkansas city",
+    "Postal Code": "67005",
+    "State": "ks"
+  },
+  {
+    "City": "atchison",
+    "Postal Code": "66002",
+    "State": "ks"
+  },
+  {
+    "City": "baldwin city",
+    "Postal Code": "66006",
+    "State": "ks"
+  },
+  {
+    "City": "basehor",
+    "Postal Code": "66007",
+    "State": "ks"
+  },
+  {
+    "City": "baxter springs",
+    "Postal Code": "66713",
+    "State": "ks"
+  },
+  {
+    "City": "bonner springs",
+    "Postal Code": "66012",
+    "State": "ks"
+  },
+  {
+    "City": "chanute",
+    "Postal Code": "66720",
+    "State": "ks"
+  },
+  {
+    "City": "cherryvale",
+    "Postal Code": "67335",
+    "State": "ks"
+  },
+  {
+    "City": "clay center",
+    "Postal Code": "67432",
+    "State": "ks"
+  },
+  {
+    "City": "coffeyville",
+    "Postal Code": "67337",
+    "State": "ks"
+  },
+  {
+    "City": "concordia",
+    "Postal Code": "66901",
+    "State": "ks"
+  },
+  {
+    "City": "council grove",
+    "Postal Code": "66846",
+    "State": "ks"
+  },
+  {
+    "City": "dodge city",
+    "Postal Code": "67801",
+    "State": "ks"
+  },
+  {
+    "City": "ellinwood",
+    "Postal Code": "67526",
+    "State": "ks"
+  },
+  {
+    "City": "fort scott",
+    "Postal Code": "66701",
+    "State": "ks"
+  },
+  {
+    "City": "garnett",
+    "Postal Code": "66032",
+    "State": "ks"
+  },
+  {
+    "City": "goddard",
+    "Postal Code": "67052",
+    "State": "ks"
+  },
+  {
+    "City": "goodland",
+    "Postal Code": "67735",
+    "State": "ks"
+  },
+  {
+    "City": "halstead",
+    "Postal Code": "67056",
+    "State": "ks"
+  },
+  {
+    "City": "hesston",
+    "Postal Code": "67062",
+    "State": "ks"
+  },
+  {
+    "City": "hoisington",
+    "Postal Code": "67544",
+    "State": "ks"
+  },
+  {
+    "City": "holton",
+    "Postal Code": "66436",
+    "State": "ks"
+  },
+  {
+    "City": "horton",
+    "Postal Code": "66439",
+    "State": "ks"
+  },
+  {
+    "City": "hugoton",
+    "Postal Code": "67951",
+    "State": "ks"
+  },
+  {
+    "City": "iola",
+    "Postal Code": "66749",
+    "State": "ks"
+  },
+  {
+    "City": "larned",
+    "Postal Code": "67550",
+    "State": "ks"
+  },
+  {
+    "City": "leavenworth",
+    "Postal Code": "66027",
+    "State": "ks"
+  },
+  {
+    "City": "lindsborg",
+    "Postal Code": "67456",
+    "State": "ks"
+  },
+  {
+    "City": "lyons",
+    "Postal Code": "67554",
+    "State": "ks"
+  },
+  {
+    "City": "maize",
+    "Postal Code": "67101",
+    "State": "ks"
+  },
+  {
+    "City": "mcpherson",
+    "Postal Code": "67460",
+    "State": "ks"
+  },
+  {
+    "City": "mulvane",
+    "Postal Code": "67110",
+    "State": "ks"
+  },
+  {
+    "City": "neodesha",
+    "Postal Code": "66757",
+    "State": "ks"
+  },
+  {
+    "City": "olathe",
+    "Postal Code": "66051",
+    "State": "ks"
+  },
+  {
+    "City": "osage city",
+    "Postal Code": "66523",
+    "State": "ks"
+  },
+  {
+    "City": "osawatomie",
+    "Postal Code": "66064",
+    "State": "ks"
+  },
+  {
+    "City": "paola",
+    "Postal Code": "66071",
+    "State": "ks"
+  },
+  {
+    "City": "pratt",
+    "Postal Code": "67124",
+    "State": "ks"
+  },
+  {
+    "City": "rose hill",
+    "Postal Code": "67133",
+    "State": "ks"
+  },
+  {
+    "City": "tonganoxie",
+    "Postal Code": "66086",
+    "State": "ks"
+  },
+  {
+    "City": "ulysses",
+    "Postal Code": "67880",
+    "State": "ks"
+  },
+  {
+    "City": "valley center",
+    "Postal Code": "67147",
+    "State": "ks"
+  },
+  {
+    "City": "wamego",
+    "Postal Code": "66547",
+    "State": "ks"
+  },
+  {
+    "City": "wichita",
+    "Postal Code": "67201",
+    "State": "ks"
+  },
+  {
+    "City": "adairville",
+    "Postal Code": "42202",
+    "State": "ky"
+  },
+  {
+    "City": "addis",
+    "Postal Code": "70710",
+    "State": "la"
+  },
+  {
+    "City": "baker",
+    "Postal Code": "59313",
+    "State": "mt"
+  },
+  {
+    "City": "aberdeen",
+    "Postal Code": "98520",
+    "State": "wa"
+  },
+  {
+    "City": "abington",
+    "Postal Code": "02351",
+    "State": "ma"
+  },
+  {
+    "City": "adams",
+    "Postal Code": "53910",
+    "State": "wi"
+  },
+  {
+    "City": "barre",
+    "Postal Code": "05641",
+    "State": "vt"
+  },
+  {
+    "City": "adrian",
+    "Postal Code": "64720",
+    "State": "mo"
+  },
+  {
+    "City": "ackerman",
+    "Postal Code": "39735",
+    "State": "ms"
+  },
+  {
+    "City": "boulder city",
+    "Postal Code": "89005",
+    "State": "nv"
+  },
+  {
+    "City": "alamogordo",
+    "Postal Code": "88310",
+    "State": "nm"
+  },
+  {
+    "City": "berthold",
+    "Postal Code": "58718",
+    "State": "nd"
+  },
+  {
+    "City": "achille",
+    "Postal Code": "74720",
+    "State": "ok"
+  },
+  {
+    "City": "abbottstown",
+    "Postal Code": "17301",
+    "State": "pa"
+  },
+  {
+    "City": "abernathy",
+    "Postal Code": "79311",
+    "State": "tx"
+  },
+  {
+    "City": "abingdon",
+    "Postal Code": "24210",
+    "State": "va"
+  },
+  {
+    "City": "alderson",
+    "Postal Code": "24910",
+    "State": "wv"
+  }
+]

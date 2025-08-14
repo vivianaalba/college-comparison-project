@@ -1,0 +1,12 @@
+pandas
+matplotlib
+seaborn
+geopandas
+scipy
+scikit-learn
+statsmodels
+fuzzywuzzy
+python-dotenv
+requests
+beautifulsoup4
+numpy
