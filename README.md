@@ -21,14 +21,6 @@ Through statistical and exploratory data analysis, I examined the statistically 
 - `report/` : contains written report with project summary, motivations, and results
 - `requirements.txt` : contains Python dependencies
 
-**To run the analysis locally:**
-```bash
-git clone <repo-url>
-cd institutional-value-analysis
-pip install -r requirements.txt
-jupyter notebook notebooks/data_analysis.ipynb
-
-
 ## Requirements
 pandas <br>
 matplotlib <br>
@@ -42,3 +34,10 @@ python-dotenv <br>
 requests <br>
 beautifulsoup4 <br>
 numpy <br>
+
+**To run the analysis locally:**
+```bash
+git clone <repo-url>
+cd institutional-value-analysis
+pip install -r requirements.txt
+jupyter notebook notebooks/data_analysis.ipynb
