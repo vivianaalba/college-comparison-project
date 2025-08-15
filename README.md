@@ -18,6 +18,7 @@ Through statistical and exploratory data analysis, I examined the statistically 
 - `data/` : contains CSV files and extracted data
 - `data/merged_data` : contains CSV files and cleaned, merged data
 - `notebooks/` : contains Jupyter notebooks for data extraction, cleaning, integration, and analysis
+- `report/` : contains written report with project summary, motivations, and results
 - `requirements.txt` : contains Python dependencies
 
 **To run the analysis locally:**
